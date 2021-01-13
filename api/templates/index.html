@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <title>Covid19 Piracicaba-SP</title>
+</head>
+
+<body onload="drawVisualization({{ data.grafico_casos_diarios }}, {{ data.grafico_obitos_diarios }})">
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Covid19 Piracicaba-SP</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+                <a class="nav-item nav-link" href="/">Home</a>
+<!--                <a class="nav-item nav-link" href="covid19_piracicaba_sp.xlsx">Planilha</a>-->
+            </div>
+        </div>
+    </nav>
+
+    <div class="row"><br></div>
+
+    {% if data %}
+
+        <div class="row" id="Dashboard">
+
+            <div class="form-group col-md-12">
+                <div class="card bg-light mb-3">
+                    <div class="card-header text-center"><h2>Última atualização: {{ data.dia }}</h2></div>
+                </div>
+            </div>
+
+            <div class="form-group col-md-2">
+                <div class="card text-white bg-danger mb-3">
+                    <div class="card-header">Casos (+{{ data.casos_24h }})</div>
+                    <div class="card-body">
+                        <h4 class="card-text font-weight-bold text-center">{{ data.casos_total }}</h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group col-md-2">
+                <div class="card text-white bg-dark mb-3">
+                    <div class="card-header">Óbitos (+{{ data.obitos_24h }})</div>
+                    <div class="card-body">
+                        <h4 class="card-text font-weight-bold text-center">{{ data.obitos_total }}</h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group col-md-2">
+                <div class="card text-white bg-warning mb-3">
+                    <div class="card-header">Tratamento</div>
+                    <div class="card-body">
+                        <h4 class="card-text font-weight-bold text-center">{{ data.tratamento_total }}</h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group col-md-2">
+                <div class="card text-white bg-secondary mb-3">
+                    <div class="card-header">Suspeitos</div>
+                    <div class="card-body">
+                        <h4 class="card-text font-weight-bold text-center">{{ data.suspeitos_total }}</h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group col-md-2">
+                <div class="card text-white bg-success mb-3">
+                    <div class="card-header">Recuperados</div>
+                    <div class="card-body">
+                        <h4 class="card-text font-weight-bold text-center">{{ data.recuperados_total }}</h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group col-md-2">
+                <div class="card text-white bg-info mb-3">
+                    <div class="card-header">Descartados</div>
+                    <div class="card-body">
+                        <h4 class="card-text font-weight-bold text-center">{{ data.descartados_total }}</h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group col-md-12">
+                <!-- https://developers.google.com/chart/interactive/docs/gallery/combochart-->
+                <script type="text/javascript">
+                  google.charts.load('current', {'packages':['corechart']});
+                  google.charts.setOnLoadCallback(drawVisualization);
+
+                  function drawVisualization(chart_cases, chart_deaths) {
+
+                    var data_cases = google.visualization.arrayToDataTable(
+                        chart_cases
+                    );
+                    var data_deaths = google.visualization.arrayToDataTable(
+                        chart_deaths
+                    );
+
+                    var options_cases = {
+                      title : 'Casos de COVID-19 diários em Piracicaba-SP',
+                      vAxis: {title: 'Casos'},
+                      hAxis: {title: 'Data'},
+                      seriesType: 'bars',
+                      series: {1: {type: 'line'}}
+                    };
+                    var options_deaths = {
+                      title : 'Óbitos por COVID-19 diários em Piracicaba-SP',
+                      vAxis: {title: 'Óbitos'},
+                      hAxis: {title: 'Data'},
+                      seriesType: 'bars',
+                      series: {1: {type: 'line'}}
+                    };
+
+                    var chart_cases = new google.visualization.ComboChart(document.getElementById('chart_daily_cases'));
+                    var chart_deaths = new google.visualization.ComboChart(document.getElementById('chart_daily_deaths'));
+
+                    chart_cases.draw(data_cases, options_cases);
+                    chart_deaths.draw(data_deaths, options_deaths);
+                  }
+                </script>
+                <div id="chart_daily_cases" style="width: 1020px; height: 500px;"></div>
+                <div id="chart_daily_deaths" style="width: 1020px; height: 500px;"></div>
+            </div>
+
+        </div>
+
+    {% endif %}
+
+    <footer>
+        <center>&copy; Juliano Giusti</center>
+    </footer>
+</div>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+</body>
+</html>
