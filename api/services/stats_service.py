@@ -56,7 +56,8 @@ def list_stats():
         'recuperados_total': covid_data["recuperados"].iloc[-1].astype('int'),
         'descartados_total': covid_data["descartados"].iloc[-1].astype('int'),
         'grafico_casos_diarios': daily_cases,
-        'grafico_obitos_diarios': daily_deaths
+        'grafico_obitos_diarios': daily_deaths,
+        'ultima_atualizacao': covid_data["fonte"].iloc[-1]
     }
 
     return stats
