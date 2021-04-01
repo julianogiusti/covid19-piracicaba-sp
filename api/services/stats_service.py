@@ -7,7 +7,7 @@ import pandas as pd
 
 def list_stats():
     # downalod data
-    covid_url = 'https://www.dropbox.com/s/tp52yb4oda456ub/Historico_covid19_Piracicaba_SP.xlsx?dl=0'
+    covid_url = 'https://www.dropbox.com/s/zuxwm04x7z4uo1r/Historico_covid19_Piracicaba_SP.xlsx?dl=0'
     covid_data_sheet = 'covid19_piracicaba_sp.xlsx'
 
     # check if there is need to download
@@ -55,6 +55,8 @@ def list_stats():
         'suspeitos_total': covid_data["suspeitos"].iloc[-1].astype('int'),
         'recuperados_total': covid_data["recuperados"].iloc[-1].astype('int'),
         'descartados_total': covid_data["descartados"].iloc[-1].astype('int'),
+        'ocupacao_uti': covid_data["ocupacao_uti_%"].iloc[-1].astype('int'),
+        'ocupacao_enfermaria': covid_data["ocupacao_enfermaria_%"].iloc[-1].astype('int'),
         'grafico_casos_diarios': daily_cases,
         'grafico_obitos_diarios': daily_deaths,
         'ultima_atualizacao': covid_data["fonte"].iloc[-1]
