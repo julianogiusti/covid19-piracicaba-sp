@@ -5,7 +5,7 @@
     <title>Covid19 Piracicaba/SP</title>
 </head>
 
-<body onload="drawVisualization({{ data.grafico_casos_diarios }}, {{ data.grafico_obitos_diarios }})">
+<body onload="drawVisualization({{ data.grafico_casos_diarios }}, {{ data.grafico_obitos_diarios }}, {{ data.grafico_casos_mensal }})">
 
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
@@ -115,13 +115,16 @@
                   google.charts.load('current', {'packages':['corechart']});
                   google.charts.setOnLoadCallback(drawVisualization);
 
-                  function drawVisualization(chart_cases, chart_deaths) {
+                  function drawVisualization(chart_cases, chart_deaths, chart_monthly_cases) {
 
                     var data_cases = google.visualization.arrayToDataTable(
                         chart_cases
                     );
                     var data_deaths = google.visualization.arrayToDataTable(
                         chart_deaths
+                    );
+                    var data_monthly_cases = google.visualization.arrayToDataTable(
+                        chart_monthly_cases
                     );
 
                     var options_cases = {
@@ -138,16 +141,25 @@
                       seriesType: 'bars',
                       series: {1: {type: 'line'}}
                     };
+                    var options_monthly_cases = {
+                      title : 'Casos de COVID-19 mensal em Piracicaba-SP',
+                      vAxis: {title: 'Casos'},
+                      hAxis: {title: 'Ano-mês'},
+                      seriesType: 'bars'
+                    };
 
                     var chart_cases = new google.visualization.ComboChart(document.getElementById('chart_daily_cases'));
                     var chart_deaths = new google.visualization.ComboChart(document.getElementById('chart_daily_deaths'));
+                    var chart_monthly_cases = new google.visualization.ComboChart(document.getElementById('chart_monthly_cases'));
 
                     chart_cases.draw(data_cases, options_cases);
                     chart_deaths.draw(data_deaths, options_deaths);
+                    chart_monthly_cases.draw(data_monthly_cases, options_monthly_cases);
                   }
                 </script>
                 <div id="chart_daily_cases" style="height: 500px;"></div>
                 <div id="chart_daily_deaths" style="height: 500px;"></div>
+                <div id="chart_monthly_cases" style="height: 500px;"></div>
             </div>
 
         </div>

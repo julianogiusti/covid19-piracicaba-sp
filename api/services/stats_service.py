@@ -45,6 +45,14 @@ def list_stats():
     daily_deaths = covid_data[['data', 'obitos_novos', 'media_movel_obitos']].to_numpy().tolist()
     daily_deaths.insert(0, ['Data', 'Óbitos', f'Média nos últimos {media_movel} dias'])
 
+    covid_data[['dia', 'mes', 'ano']] = covid_data['data'].str.split('/', expand=True)
+    covid_data['ano_mes'] = covid_data['ano'] + "-" + covid_data['mes']
+    monthly_cases = covid_data.groupby(by='ano_mes').sum()['casos_novos']
+    monthly_cases.sort_index()
+    monthly_cases = monthly_cases.reset_index()
+    monthly_cases = monthly_cases.to_numpy().tolist()
+    monthly_cases.insert(0, ['Ano-mês', 'Casos'])
+
     stats = {
         'dia': covid_data["data"].iloc[-1],
         'casos_24h': covid_data["casos_novos"].iloc[-1],
@@ -59,6 +67,7 @@ def list_stats():
         'ocupacao_enfermaria': covid_data["ocupacao_enfermaria_%"].iloc[-1].astype('int'),
         'grafico_casos_diarios': daily_cases,
         'grafico_obitos_diarios': daily_deaths,
+        'grafico_casos_mensal': monthly_cases,
         'ultima_atualizacao': covid_data["fonte"].iloc[-1]
     }
 
