@@ -18,7 +18,7 @@ def list_stats():
         covid_data = pd.read_excel(covid_data_sheet)
         last_update = covid_data['data'].iloc[-1]
         today = datetime.now()
-        if today.hour >= 18 and today.date() > last_update.date():
+        if today.hour >= 15 and today.date() > last_update.date():
             subprocess.call(f'wget -c {covid_url} -O {covid_data_sheet}', shell=True)
             covid_data = pd.read_excel(covid_data_sheet)
 
