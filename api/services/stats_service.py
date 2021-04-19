@@ -6,7 +6,7 @@ import pandas as pd
 
 
 def list_stats():
-    covid_url = 'https://www.dropbox.com/s/zuxwm04x7z4uo1r/Historico_covid19_Piracicaba_SP.xlsx?dl=0'
+    covid_url = 'https://www.dropbox.com/s/libu2hwpzyx21h0/Historico_covid19_Piracicaba_SP.xlsx?dl=0'
     covid_data_sheet = 'covid19_piracicaba_sp.xlsx'
 
     # check if there is need to download
