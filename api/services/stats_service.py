@@ -14,7 +14,7 @@ def list_stats():
     #     subprocess.call(f'wget -c {covid_url} -O {covid_data_sheet}', shell=True)
     subprocess.call(f'wget -c {covid_url} -O {covid_data_sheet}', shell=True)
 
-    # covid_data = pd.read_excel(covid_data_sheet)
+    covid_data = pd.read_excel(covid_data_sheet)
     # last_update = covid_data['data'].iloc[-1]
     # today = datetime.now()
 
