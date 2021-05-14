@@ -10,16 +10,17 @@ def list_stats():
     covid_data_sheet = 'covid19_piracicaba_sp.xlsx'
 
     # check if there is need to download
-    if not os.path.exists(covid_data_sheet):
-        subprocess.call(f'wget -c {covid_url} -O {covid_data_sheet}', shell=True)
+    # if not os.path.exists(covid_data_sheet):
+    #     subprocess.call(f'wget -c {covid_url} -O {covid_data_sheet}', shell=True)
+    subprocess.call(f'wget -c {covid_url} -O {covid_data_sheet}', shell=True)
 
-    covid_data = pd.read_excel(covid_data_sheet)
-    last_update = covid_data['data'].iloc[-1]
-    today = datetime.now()
+    # covid_data = pd.read_excel(covid_data_sheet)
+    # last_update = covid_data['data'].iloc[-1]
+    # today = datetime.now()
 
-    if today.hour >= 16 and today.date() > last_update.date():
-        subprocess.call(f'wget -c {covid_url} -O {covid_data_sheet}', shell=True)
-        covid_data = pd.read_excel(covid_data_sheet)
+    # if today.hour >= 16 and today.date() > last_update.date():
+        # subprocess.call(f'wget -c {covid_url} -O {covid_data_sheet}', shell=True)
+        # covid_data = pd.read_excel(covid_data_sheet)
 
     covid_data['data'] = covid_data['data'].dt.strftime("%d/%m/%Y")
 
