@@ -6,10 +6,9 @@ import pandas as pd
 
 
 def list_stats():
-    covid_url = 'https://www.dropbox.com/s/libu2hwpzyx21h0/Historico_covid19_Piracicaba_SP.xlsx?dl=0'
-    covid_data_sheet = 'covid19_piracicaba_sp.csv'
+    covid_data_csv = 'https://raw.githubusercontent.com/julianogiusti/covid19-piracicaba-sp/master/covid19_piracicaba_sp.csv'
 
-    covid_data = pd.read_csv(covid_data_sheet, sep=';')
+    covid_data = pd.read_csv(covid_data_csv, sep=';')
     covid_data['data'] = pd.to_datetime(covid_data['data'])
 
     covid_data['data'] = covid_data['data'].dt.strftime("%d/%m/%Y")

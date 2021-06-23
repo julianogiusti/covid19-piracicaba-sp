@@ -1,3 +1,5 @@
+import subprocess
+
 from flask import render_template, make_response, send_file
 from flask_restful import Resource
 
@@ -15,7 +17,7 @@ class StatsOverview(Resource):
 class StatsSheet(Resource):
 
     def get(self):
-        return send_file('../covid19_piracicaba_sp.xlsx', as_attachment=True)
+        return send_file('https://raw.githubusercontent.com/julianogiusti/covid19-piracicaba-sp/master/covid19_piracicaba_sp.csv', as_attachment=True)
 
 
 api.add_resource(StatsOverview, '/')
