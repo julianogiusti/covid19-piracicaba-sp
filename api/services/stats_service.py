@@ -7,12 +7,10 @@ import pandas as pd
 
 def list_stats():
     covid_url = 'https://www.dropbox.com/s/libu2hwpzyx21h0/Historico_covid19_Piracicaba_SP.xlsx?dl=0'
-    covid_data_sheet = 'covid19_piracicaba_sp.xlsx'
+    covid_data_sheet = 'covid19_piracicaba_sp.csv'
 
-    ##
-    subprocess.call(f'wget -c {covid_url} -O {covid_data_sheet}', shell=True)
-
-    covid_data = pd.read_excel(covid_data_sheet)
+    covid_data = pd.read_csv(covid_data_sheet, sep=';')
+    covid_data['data'] = pd.to_datetime(covid_data['data'])
 
     covid_data['data'] = covid_data['data'].dt.strftime("%d/%m/%Y")
 
@@ -50,12 +48,12 @@ def list_stats():
         'casos_total': covid_data["casos"].iloc[-1],
         'obitos_24h': covid_data["obitos_novos"].iloc[-1],
         'obitos_total': covid_data["obitos"].iloc[-1],
-        'tratamento_total': covid_data["em_tratamento"].iloc[-1].astype('int'),
-        'suspeitos_total': covid_data["suspeitos"].iloc[-1].astype('int'),
-        'recuperados_total': covid_data["recuperados"].iloc[-1].astype('int'),
-        'descartados_total': covid_data["descartados"].iloc[-1].astype('int'),
-        'ocupacao_uti': covid_data["ocupacao_uti_%"].iloc[-1].astype('int'),
-        'ocupacao_enfermaria': covid_data["ocupacao_enfermaria_%"].iloc[-1].astype('int'),
+        'tratamento_total': int(covid_data["em_tratamento"].iloc[-1]),
+        'suspeitos_total': int(covid_data["suspeitos"].iloc[-1]),
+        'recuperados_total': int(covid_data["recuperados"].iloc[-1]),
+        'descartados_total': int(covid_data["descartados"].iloc[-1]),
+        'ocupacao_uti': int(covid_data["ocupacao_uti_%"].iloc[-1]),
+        'ocupacao_enfermaria': int(covid_data["ocupacao_enfermaria_%"].iloc[-1]),
         'grafico_casos_diarios': daily_cases,
         'grafico_obitos_diarios': daily_deaths,
         'grafico_casos_mensal': monthly_cases,
