@@ -5,7 +5,7 @@ def list_stats():
     covid_data_csv = 'https://raw.githubusercontent.com/julianogiusti/covid19-piracicaba-sp/master/covid19_piracicaba_sp.csv'
 
     covid_data = pd.read_csv(covid_data_csv, sep=';')
-    covid_data['data'] = pd.to_datetime(covid_data['data'])
+    covid_data['data'] = pd.to_datetime(covid_data['data'], format='%d/%m/%Y')
 
     covid_data['data'] = covid_data['data'].dt.strftime("%d/%m/%Y")
 
