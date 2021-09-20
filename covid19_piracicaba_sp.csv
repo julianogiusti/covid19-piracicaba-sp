@@ -523,7 +523,7 @@ data;casos_novos;casos;obitos_novos;obitos;suspeitos;descartados;recuperados;em_
 27/08/2021;51;66533;0;1337;1655;102939;64559;636;37;16;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+08+2021.aspx;
 28/08/2021;54;66587;3;1340;1574;103156;64635;611;35;20;[70];[48,81];http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+08+2021.aspx;
 29/08/2021;56;66643;1;1341;1571;103219;64681;620;33;29;[78];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+08+2021.aspx;
-30/08/2021;67;66710;3;1344;1631;103325;64727;638;29;35;[51,757,73];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+08+2021.aspx;Primeiro óbito variante delta, mulher 74 anos: http://www.piracicaba.sp.gov.br/covid+19+piracicaba+confirma+primeira+morte+pela+variante+delta.aspx
+30/08/2021;67;66710;3;1344;1631;103325;64727;638;29;35;[51,57,73];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+08+2021.aspx;Primeiro óbito variante delta, mulher 74 anos: http://www.piracicaba.sp.gov.br/covid+19+piracicaba+confirma+primeira+morte+pela+variante+delta.aspx
 31/08/2021;57;66767;0;1344;1592;103438;64770;652;31;19;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+31+08+2021.aspx;
 01/09/2021;58;66825;1;1345;1643;103568;64800;679;40;17;[];[99];http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+09+2021.aspx;
 02/09/2021;60;66885;3;1348;1635;103791;64816;720;40;9;[74,84];[78];http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+09+2021.aspx;
@@ -541,3 +541,7 @@ data;casos_novos;casos;obitos_novos;obitos;suspeitos;descartados;recuperados;em_
 14/09/2021;44;67567;0;1358;874;105205;65362;846;27;19;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+09+2021.aspx;
 15/09/2021;59;67626;3;1361;1077;105219;65371;893;31;11;[53];[68,75];http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+09+2021.aspx;
 16/09/2021;59;67685;0;1361;1072;105317;65528;795;33;18;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+09+2021.aspx;
+17/09/2021;58;67743;3;1364;1072;105447;65702;676;22;19;[70,89];[62];http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+09+2021.aspx;
+18/09/2021;51;67794;1;1365;1052;105542;65841;587;21;21;[];[87];http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+09+2021.aspx;
+19/09/2021;52;67846;0;1365;918;105638;65917;563;21;21;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+09+2021.aspx;
+20/09/2021;63;67909;2;1367;1086;105758;65976;565;27;25;[];[80,101];http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+09+2021.aspx;
