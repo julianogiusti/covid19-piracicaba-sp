@@ -556,3 +556,7 @@ data;casos_novos;casos;obitos_novos;obitos;suspeitos;descartados;recuperados;em_
 29/09/2021;52;68472;0;1372;1671;107026;66467;632;24;11;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+09+2021.aspx;
 30/09/2021;57;68529;0;1372;1655;107126;66534;622;22;21;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+09+2021.aspx;
 01/10/2021;57;68586;1;1373;1639;107310;66599;613;24;29;[77];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+10+2021.aspx;
+02/10/2021;43;68629;1;1374;1639;107456;66665;589;24;29;[];[51];http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+10+2021.aspx;
+03/10/2021;40;68669;0;1374;1491;107604;66730;564;24;23;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+10+2021.aspx;
+04/10/2021;32;68701;0;1374;1703;107767;66800;526;17;27;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+10+2021.aspx;
+05/10/2021;35;68736;3;1377;1538;107913;66863;495;16;29;[39];[72,95];http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+10+2021.aspx;
