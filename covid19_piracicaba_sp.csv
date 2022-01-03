@@ -597,3 +597,8 @@ data;casos_novos;casos;obitos_novos;obitos;suspeitos;descartados;recuperados;em_
 07/12/2021;56;69560;0;1392;1041;114580;68075;114;9;20;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+12+a+07+12.aspx;
 10/12/2021;46;69606;0;1392;999;114785;68119;109;18;47;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+a+10+12.aspx;
 14/12/2021;68;69674;0;1392;935;115078;68169;134;14;63;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+a+14+12.aspx;
+17/12/2021;60;69734;3;1395;830;115183;68198;162;0;60;[78,88,100];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+12+2021+a+17+12+2021.aspx;
+21/12/2021;76;69810;0;1395;741;115304;68245;191;10;60;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+a+21+12.aspx;
+23/12/2021;41;69851;1;1396;741;115390;68277;199;10;57;[];[45];http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+a+23+12.aspx;
+28/12/2021;120;69971;1;1397;813;115543;68370;225;35;61;[];[76];http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+12+a+28+12.aspx;
+30/12/2021;64;70035;0;1397;664;115648;68434;225;15;67;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+12+a+30+12.aspx;
