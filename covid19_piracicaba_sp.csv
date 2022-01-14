@@ -1,609 +1,613 @@
-data;casos_novos;casos;obitos_novos;obitos;suspeitos;descartados;recuperados;em_tratamento;ocupacao_uti_%;ocupacao_enfermaria_%;obitos_homem;obitos_mulher;fonte;observacoes
-24/03/2020;1;1;0;0;;;;;;;[];[];;Dados coletados via plantão da prefeitura no site e Instagram da Prefeitura (as vezes nao tinha um dia em um mas tinha no outro), e por fim, se não tinha em nenhum, verificava no site G1 piracicaba e região, verificando as noticias de cada dia
-25/03/2020;1;2;0;0;;;;;;;[];[];;
-26/03/2020;1;3;0;0;;;;;;;[];[];;
-27/03/2020;2;5;0;0;;;;;;;[];[];;
-28/03/2020;0;5;0;0;102;41;;;;;[];[];;
-29/03/2020;1;6;0;0;102;41;;;;;[];[];;
-30/03/2020;3;9;0;0;110;45;;;;;[];[];;
-31/03/2020;1;10;0;0;115;52;;;;;[];[];;
-01/04/2020;1;11;0;0;124;52;;;;;[];[];;
-02/04/2020;1;12;0;0;130;63;;;;;[];[];;
-03/04/2020;3;15;0;0;127;65;;;;;[];[];;
-04/04/2020;0;15;0;0;127;65;;;;;[];[];;
-05/04/2020;1;16;0;0;127;65;;;;;[];[];;
-06/04/2020;1;17;0;0;119;91;;;;;[];[];;
-07/04/2020;2;19;0;0;127;94;;;;;[];[];;
-08/04/2020;3;22;0;0;127;94;;;;;[];[];;
-09/04/2020;2;24;0;0;131;155;;;;;[];[];;
-10/04/2020;1;25;1;1;142;106;;;;;[];[];;
-11/04/2020;0;25;0;1;142;106;;;;;[];[];;
-12/04/2020;0;25;0;1;142;106;;;;;[];[];;
-13/04/2020;0;25;0;1;141;115;;;;;[];[];;
-14/04/2020;4;29;0;1;153;131;;;;;[];[];;
-15/04/2020;0;29;0;1;163;132;;;;;[];[];;
-16/04/2020;1;30;1;2;160;150;;;;;[];[];;
-17/04/2020;0;30;0;2;157;150;;;;;[];[];;
-18/04/2020;4;34;0;2;161;150;;;;;[];[];;
-19/04/2020;0;34;0;2;166;173;;;;;[];[];;
-20/04/2020;4;38;0;2;152;173;;;;;[];[];;
-21/04/2020;2;40;0;2;175;173;;;;;[];[];;
-22/04/2020;10;50;0;2;171;201;31;;;;[];[];;
-23/04/2020;12;62;1;3;176;223;;;;;[];[];;
-24/04/2020;8;70;1;4;180;227;39;;;;[];[];;
-25/04/2020;10;80;1;5;181;227;;;;;[];[];;
-26/04/2020;3;83;0;5;164;227;;;;;[];[];;
-27/04/2020;7;90;4;9;177;257;44;;;;[];[];;
-28/04/2020;7;97;1;10;176;287;44;;;;[];[];;
-29/04/2020;17;114;0;10;191;289;45;;;;[];[];;
-30/04/2020;3;117;0;10;195;289;;;;;[];[];;
-01/05/2020;15;132;1;11;195;289;;;;;[];[];;
-02/05/2020;3;135;0;11;202;337;61;63;;;[];[];;
-03/05/2020;5;140;0;11;176;377;61;68;;;[];[];;
-04/05/2020;12;152;2;13;169;386;63;76;;;[];[];;
-05/05/2020;11;163;0;13;146;426;65;85;;;[];[];;
-06/05/2020;18;181;0;13;147;457;67;101;;;[];[];;
-07/05/2020;0;181;1;14;160;486;73;94;;;[];[];;
-08/05/2020;14;195;0;14;160;486;;;;;[];[];;
-09/05/2020;7;202;0;14;156;526;91;96;;;[];[];;
-10/05/2020;12;214;0;14;157;526;;;;;[];[];;
-11/05/2020;2;216;1;15;160;564;98;103;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+covid+19.aspx;
-12/05/2020;5;221;1;16;148;589;117;88;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+covid+19.aspx;
-13/05/2020;22;243;1;17;136;690;128;98;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+covid+19.aspx;
-14/05/2020;15;258;0;17;133;710;147;94;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+covid+19.aspx;
-15/05/2020;6;264;0;17;124;;156;;;;[];[];https://g1.globo.com/sp/piracicaba-regiao/noticia/2020/05/15/casos-de-novo-coronavirus-na-regiao-de-piracicaba-em-15-de-maio.ghtml;
-16/05/2020;9;273;0;17;99;;166;;;;[];[];https://g1.globo.com/sp/piracicaba-regiao/noticia/2020/05/16/casos-de-coronavirus-na-regiao-de-piracicaba-em-16-de-maio.ghtml;
-17/05/2020;0;273;0;17;99;;;;;;[];[];https://g1.globo.com/sp/piracicaba-regiao/noticia/2020/05/17/casos-de-coronavirus-na-regiao-de-piracicaba-em-17-de-maio.ghtml;
-18/05/2020;24;297;0;17;119;815;182;98;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+covid+19.aspx;
-19/05/2020;27;324;2;19;89;841;183;122;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+covid+19.aspx;
-20/05/2020;11;335;0;19;132;855;190;126;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+covid+19.aspx;
-21/05/2020;19;354;1;20;117;870;196;138;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+covid+19.aspx;
-22/05/2020;38;392;2;22;111;895;207;163;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+covid+19.aspx;
-23/05/2020;46;438;0;22;81;929;242;174;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+23+de+maio+de+2020+16h.aspx;
-24/05/2020;30;468;0;22;82;938;246;200;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+24+de+maio+de+2020+16h.aspx;
-25/05/2020;11;479;0;22;82;961;261;196;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+25+de+maio+de+2020+16h.aspx;
-26/05/2020;12;491;1;23;76;964;274;195;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+26+de+maio+de+2020+16h.aspx;
-27/05/2020;7;498;1;24;100;997;279;195;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+27+de+maio+de+2020+16h.aspx;
-28/05/2020;14;512;1;25;105;1009;308;180;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+28+de+maio+de+2020+16h.aspx;
-29/05/2020;21;534;1;26;115;1051;317;191;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+29+de+maio+de+2020+16h.aspx;Ontem tinha 512, com mais 21 casos, 533, porém na página diz 534
-30/05/2020;15;549;3;29;158;1534;337;196;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+30+de+maio+de+2020.aspx;E agora? Com a soma errada de ontem, diz 549 no site, mas deveria ser 548
-31/05/2020;15;564;0;29;181;1534;333;202;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+31+de+maio+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-01/06/2020;76;640;0;29;230;1536;363;248;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+01+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-02/06/2020;25;665;5;34;280;1722;397;234;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+02+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-03/06/2020;32;697;4;38;283;1759;421;238;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+03+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-04/06/2020;14;711;1;39;261;1772;473;199;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+04+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-05/06/2020;67;778;1;40;300;1840;499;240;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+05+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-06/06/2020;113;891;0;40;281;1863;544;307;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+06+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-07/06/2020;39;930;0;40;270;1876;558;332;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+07+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-08/06/2020;114;1044;0;40;331;1880;576;428;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+08+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-09/06/2020;30;1074;3;43;346;1881;594;437;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+09+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-10/06/2020;29;1103;0;43;286;2007;622;438;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+10+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-11/06/2020;86;1189;3;46;304;2043;651;492;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+11+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-12/06/2020;60;1249;2;48;370;2057;675;528;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+12+de+junho+de+2020+16h+66394.aspx;E agora, continua contando um a mais no site…
-13/06/2020;45;1294;0;48;376;2061;698;548;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+13+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-14/06/2020;19;1313;3;51;377;2070;743;519;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+14+de+junho+de+2020+16h.aspx;E agora, no site está 1315, no dia anterior tinha 1294, somou 19 e deu 1315, era pra dar 1313!!
-15/06/2020;64;1377;2;53;373;2078;783;541;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+15+de+junho+de+2020+16h.aspx;De ontem foi corrigido, voltamos para 1 de diferença, 1376 aqui, 1377 lá
-16/06/2020;64;1441;5;58;658;2115;901;482;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+16+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-17/06/2020;44;1485;5;63;714;2148;916;506;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+17+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-18/06/2020;48;1533;3;66;800;2792;946;521;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+17+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-19/06/2020;72;1605;1;67;826;2944;1056;482;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+19+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-20/06/2020;72;1677;3;70;780;3077;1132;475;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+20+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-21/06/2020;99;1776;3;73;733;3117;1160;543;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+21+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-22/06/2020;111;1887;3;76;737;3218;1193;618;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+22+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-23/06/2020;47;1934;6;80;718;3475;1290;564;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+23+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…: nota da saúde: IMPORTANTE: Recebemos hoje (23) a informação da Vigilância Epidemiológica de que, após a conclusão da investigação sobre dois óbitos que foram contabilizados como sendo de Piracicaba, os casos são de outras cidades: um de Rio das Pedras e outro de São Pedro. Portanto, o total de óbitos é 80 pessoas. Isso pode ter ocorrido por divergências nas informações dos endereços fornecidos por familiares.: Portanto, nessa célula, vou subtrair 2 casos
-24/06/2020;90;2024;0;80;678;3517;1341;602;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+24+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-25/06/2020;50;2074;2;82;821;3558;1381;611;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+25+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-26/06/2020;130;2204;2;84;826;3564;1501;619;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+26+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-27/06/2020;151;2355;4;88;826;3782;1549;718;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+27+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-28/06/2020;180;2535;1;89;803;4027;1586;860;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+28+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-29/06/2020;182;2717;3;92;870;4144;1739;886;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+29+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-30/06/2020;141;2858;1;93;816;4220;1761;1004;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+30+de+junho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-01/07/2020;124;2982;3;96;885;4244;1834;1052;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+01+de+julho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-02/07/2020;136;3118;3;99;992;4447;1892;1127;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+02+de+julho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-03/07/2020;127;3245;2;101;1002;4481;1943;1201;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+03+de+julho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-04/07/2020;144;3389;0;101;976;4560;2091;1197;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+04+de+julho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-05/07/2020;143;3532;0;101;959;4616;2120;1311;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+05+de+julho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-06/07/2020;124;3656;2;103;938;4761;2327;1227;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+06+de+julho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-07/07/2020;130;3786;3;106;930;4816;2376;1304;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+07+de+julho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-08/07/2020;135;3921;5;111;906;4876;2529;1281;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+08+de+julho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-09/07/2020;138;4059;3;114;909;4978;2757;1188;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+09+de+julho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-10/07/2020;171;4230;6;120;970;5022;2866;1244;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+10+de+julho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-11/07/2020;155;4385;3;123;927;5152;2935;1327;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+11+de+julho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-12/07/2020;162;4547;0;123;906;5192;3161;1263;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+12+de+julho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-13/07/2020;186;4733;7;130;952;5482;3267;1336;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+13+de+julho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-14/07/2020;152;4885;6;136;977;5752;3297;1452;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+14+de+julho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-15/07/2020;197;5082;6;142;937;5956;3431;1509;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+15+de+julho+de+2020+16h.aspx;E agora, continua contando um a mais no site…
-16/07/2020;195;5277;6;148;906;6154;3549;1580;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+16+de+julho+de+2020+16h.aspx;Desisto de anotar essa diferença, sempre vai ter creio eu, vou colocar um +1 lá no primeiro caso de diferença
-17/07/2020;131;5408;2;150;993;6275;3559;1699;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+17+de+julho+de+2020+16h.aspx;
-18/07/2020;217;5625;5;155;913;6538;3663;1807;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+18+de+julho+de+2020+16h.aspx;
-19/07/2020;198;5823;4;159;853;6709;3830;1834;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+19+de+julho+de+2020+16h.aspx;
-20/07/2020;143;5966;1;160;861;6878;4131;1675;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+20+de+julho+de+2020+16h.aspx;Putz, de novo lá soma ontem com 143 e dá 1 a mais, era pra ser 5966
-21/07/2020;136;6102;4;164;980;7025;4579;1359;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+21+de+julho+de+2020+16h.aspx;Corrigiram de ontem, tirando o +1 de cima
-22/07/2020;153;6255;0;164;933;7265;4627;1464;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+22+de+julho+de+2020+16h.aspx;
-23/07/2020;182;6437;4;168;936;7417;4701;1568;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+23+de+julho+de+2020+16h.aspx;
-24/07/2020;161;6598;4;172;974;7625;4886;1540;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+24+de+julho+de+2020+16h.aspx;
-25/07/2020;170;6768;4;176;869;7177;5139;1453;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+25+de+julho+de+2020+16h.aspx;
-26/07/2020;180;6948;1;177;837;7885;5372;1399;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+26+de+julho+de+2020+16h.aspx;
-27/07/2020;193;7141;2;179;904;8137;5534;1428;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+27+de+julho+de+2020+16h.aspx;
-28/07/2020;181;7322;7;186;1081;8357;5567;1569;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+28+de+julho+de+2020+16h.aspx;
-29/07/2020;198;7520;5;191;1013;8596;5732;1597;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+29+de+julho+de+2020+16h.aspx;
-30/07/2020;154;7674;6;197;1071;8633;5884;1593;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+30+de+julho+de+2020+16h.aspx;
-31/07/2020;160;7834;4;201;1041;8838;6069;1564;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+31+de+julho+de+2020+16h.aspx;
-01/08/2020;172;8006;1;202;984;8939;6159;1645;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+1+de+agosto+de+2020+16h.aspx;
-02/08/2020;133;8133;1;203;871;8958;6339;1591;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+02+de+agosto+de+2020+16h.aspx;Putz, de novo lá soma ontem com 133 e dá 6 a MENOS, era pra ser 8139
-03/08/2020;117;8250;5;208;933;9030;6583;1459;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+03+de+agosto+de+2020+16h.aspx;
-04/08/2020;152;8402;4;212;993;9194;6668;1522;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+04+de+agosto+de+2020+16h.aspx;
-05/08/2020;133;8535;3;215;1064;9357;7026;1294;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+05+de+agosto+de+2020+16h.aspx;
-06/08/2020;151;8686;3;218;1101;9465;7087;1381;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+06+de+agosto+de+2020+16h.aspx;
-07/08/2020;150;8836;4;222;1126;9772;7343;1271;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+07+de+agosto+de+2020+16h.aspx;
-08/08/2020;136;8972;5;227;1046;10023;7433;1312;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+08+de+agosto+de+2020+16h.aspx;
-09/08/2020;138;9110;2;229;937;10184;7584;1297;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+09+de+agosto+de+2020+16h.aspx;
-10/08/2020;125;9235;5;234;907;10469;7715;1286;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+10+de+agosto+de+2020+16h.aspx;
-11/08/2020;100;9335;1;235;1029;10731;7826;1274;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+11+de+agosto+de+2020+16h.aspx;
-12/08/2020;139;9474;4;239;1146;10916;7941;1294;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+12+de+agosto+de+2020+16h.aspx;
-13/08/2020;137;9611;4;243;1038;11110;7962;1406;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+13+de+agosto+de+2020+16h.aspx;
-14/08/2020;181;9792;1;244;958;11497;7998;1550;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+14+de+agosto+de+2020+16h.aspx;
-15/08/2020;106;9898;2;246;895;11709;8146;1506;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+15+de+agosto+de+2020+16h.aspx;
-16/08/2020;123;10021;0;246;873;11827;8442;1333;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+16+de+agosto+de+2020+16h.aspx;
-17/08/2020;122;10143;4;250;951;12063;8593;1300;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+17+de+agosto+de+2020+16h.aspx;
-18/08/2020;115;10258;4;254;923;12480;8612;1392;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+18+de+agosto+de+2020+16h.aspx;
-19/08/2020;131;10389;1;255;980;12700;8682;1452;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+19+de+agosto+de+2020+16h.aspx;
-20/08/2020;118;10507;3;258;857;12965;8773;1476;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+20+de+agosto+de+2020+16h.aspx;
-21/08/2020;105;10612;4;262;902;13162;8890;1460;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+21+de+agosto+de+2020+16h.aspx;
-22/08/2020;79;10691;2;264;882;13224;8899;1538;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+22+de+agosto+de+2020+16h.aspx;
-23/08/2020;99;10790;0;264;882;13261;8909;1617;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+23+de+agosto+de+2020+16h.aspx;
-24/08/2020;97;10887;5;269;958;13459;9362;1256;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+24+de+agosto+de+2020+16h.aspx;
-25/08/2020;136;11023;3;272;965;13720;9466;1285;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+25+de+agosto+de+2020+16h.aspx;
-26/08/2020;148;11171;4;276;1013;13971;9490;1405;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+26+de+agosto+de+2020+16h.aspx;
-27/08/2020;137;11308;5;281;977;14390;9674;1353;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+27+de+agosto+de+2020+16h.aspx;
-28/08/2020;130;11438;2;283;1023;14662;9825;1330;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+28+de+agosto+de+2020+16h.aspx;
-29/08/2020;126;11564;2;285;1028;14956;10195;1084;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+29+de+agosto+de+2020+16h.aspx;
-30/08/2020;100;11664;0;285;918;15225;10307;1072;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+30+de+agosto+de+2020+16h.aspx;
-31/08/2020;66;11730;4;289;927;15466;10354;1087;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+31+de+agosto+de+2020+16h.aspx;
-01/09/2020;58;11788;2;291;1040;15629;10356;1141;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+01+de+setembro+de+2020+16h.aspx;
-02/09/2020;140;11928;3;294;843;15969;10358;1276;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+02+de+setembro+de+2020+16h.aspx;
-03/09/2020;138;12066;1;295;866;16240;10609;1162;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+03+de+setembro+de+2020+16h.aspx;
-04/09/2020;145;12211;2;297;935;16559;10656;1258;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+04+de+setembro+de+2020+16h.aspx;
-05/09/2020;144;12355;0;297;931;16947;10684;1374;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+05+de+setembro+de+2020+16h.aspx;
-06/09/2020;149;12504;0;297;771;17412;10936;1271;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+06+de+setembro+de+2020+16h.aspx;
-07/09/2020;155;12659;3;300;643;17685;11141;1218;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+07+de+setembro+de+2020+16h.aspx;
-08/09/2020;137;12796;5;305;802;17931;11228;1263;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+08+de+setembro+de+2020+16h.aspx;
-09/09/2020;141;12937;2;307;1016;18206;11255;1375;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+09+de+setembro+de+2020+16h.aspx;
-10/09/2020;125;13062;3;310;1026;18609;11379;1373;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+10+de+setembro+de+2020+16h.aspx;
-11/09/2020;134;13196;1;311;964;19112;11402;1483;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+11+de+setembro+de+2020+16h.aspx;
-12/09/2020;98;13294;2;313;1024;19137;11545;1436;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+12+de+setembro+de+2020+16h.aspx;Descartados: 19.2137 ???
-13/09/2020;87;13381;0;313;1022;19214;11607;1461;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+13+de+setembro+de+2020+16h.aspx;
-14/09/2020;53;13434;4;317;1164;19437;11718;1399;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+14+de+setembro+de+2020+16h.aspx;
-15/09/2020;72;13506;4;321;1165;19711;12032;1153;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+15+de+setembro+de+2020+16h.aspx;
-16/09/2020;107;13613;0;321;1180;20018;12163;1129;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+16+de+setembro+de+2020+16h.aspx;
-17/09/2020;116;13729;2;323;1075;20398;12303;1103;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+17+de+setembro+de+2020+16h.aspx;
-18/09/2020;126;13855;2;325;940;20893;12361;1169;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+18+de+setembro+de+2020+16h.aspx;
-19/09/2020;121;13976;1;326;660;21352;12520;1130;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+19+de+setembro+de+2020+16h.aspx;
-20/09/2020;43;14019;0;326;826;21380;12637;1056;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+20+de+setembro+de+2020+16h.aspx;
-21/09/2020;83;14102;3;329;829;21654;12737;1036;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+21+de+setembro+de+2020+as+16h.aspx;
-22/09/2020;62;14164;2;331;690;22244;12954;879;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+22+de+setembro+de+2020+16h.aspx;
-23/09/2020;105;14269;1;332;674;22600;12989;948;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+23+de+setembro+de+2020+16h.aspx;
-24/09/2020;105;14374;3;335;712;22881;13090;949;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+24+de+setembro+de+2020+16h.aspx;
-25/09/2020;107;14481;3;338;675;23269;13256;887;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+25+de+setembro+de+2020+16h.aspx;
-26/09/2020;98;14579;0;338;596;23619;13341;900;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+26+de+setembro+de+2020+16h.aspx;
-27/09/2020;121;14700;1;339;604;23772;13462;899;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+27+de+setembro+de+2020+16h.aspx;
-28/09/2020;85;14785;2;341;690;24118;13513;931;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+28+de+setembro+de+2020+16h.aspx;
-29/09/2020;111;14896;1;342;778;24720;13667;887;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+29+de+setembro+de+2020+16h.aspx;
-30/09/2020;111;15007;0;342;750;25286;13683;982;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+30+de+setembro+de+2020+16h.aspx;
-01/10/2020;104;15111;2;344;836;25779;13800;967;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+01+de+outubro+de+2020+16h.aspx;
-02/10/2020;86;15197;2;346;903;26254;13833;1018;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+02+de+outubro+de+2020+16h.aspx;
-03/10/2020;110;15307;2;348;861;26732;13950;1009;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+03+de+outubro+de+2020+16h.aspx;
-04/10/2020;105;15412;1;349;653;26968;14043;1020;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+04+de+outubro+de+2020+16h.aspx;
-05/10/2020;78;15490;1;350;730;27454;14148;992;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+05+de+outubro+de+2020+16h.aspx;
-06/10/2020;64;15554;1;351;743;27798;14248;955;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+06+de+outubro+de+2020+16h.aspx;
-07/10/2020;61;15615;1;352;793;28219;14409;854;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+07+de+outubro+de+2020+16h.aspx;
-08/10/2020;81;15696;1;353;797;28717;14512;831;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+08+de+outubro+de+2020+16h.aspx;
-09/10/2020;104;15800;2;355;819;29227;14631;814;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+09+de+outubro+de+2020+16h.aspx;
-10/10/2020;80;15880;0;355;879;29602;14711;814;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+10+de+outubro+de+2020+16h.aspx;
-11/10/2020;49;15929;0;355;838;30106;14832;742;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+11+de+outubro+de+2020+16h.aspx;
-12/10/2020;53;15982;2;357;813;30621;14936;814;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+12+de+outubro+de+2020+16h.aspx;
-13/10/2020;31;16013;0;357;527;31315;15074;582;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+13+de+outubro+de+2020+16h.aspx;
-14/10/2020;66;16079;1;358;550;31816;15104;617;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+14+de+outubro+de+2020+16h.aspx;
-15/10/2020;49;16128;1;359;629;31937;15217;552;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+15+de+outubro+de+2020+16h.aspx;
-16/10/2020;39;16167;0;359;694;32034;15276;532;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+16+de+outubro+de+2010+16h.aspx;
-17/10/2020;39;16206;2;361;560;32241;15334;511;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+17+de+outubro+de+2020+16h.aspx;
-18/10/2020;92;16298;0;361;551;32384;15397;540;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+18+de+outubro+de+2020+16h.aspx;
-19/10/2020;83;16381;0;361;692;32535;15478;542;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+19+de+outubro+de+2020+16h.aspx;
-20/10/2020;100;16481;1;362;700;32712;15532;587;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+20+de+outubro+de+2020+16h.aspx;
-21/10/2020;88;16569;2;364;787;33036;15556;649;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+21+de+outubro+de+2020+16h.aspx;
-22/10/2020;75;16644;0;364;866;33233;15597;683;;;[];[];http://www.piracicaba.sp.gov.br/comunicado+22+de+outubro+de+2020+16h.aspx;
-23/10/2020;61;16705;0;364;913;33484;15624;717;;;[];[];http://www.piracicaba.sp.gov.br/coronavirus+atualizacao+de+casos+em+23+10.aspx;
-24/10/2020;68;16773;0;364;833;33551;15677;732;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+10+20.aspx;
-25/10/2020;68;16841;0;364;827;33712;15765;712;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+10+20.aspx;
-26/10/2020;70;16911;3;367;792;34050;15794;750;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+10+20.aspx;
-27/10/2020;34;16945;0;367;840;34342;15813;765;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+10+20.aspx;
-28/10/2020;21;16966;0;367;945;34592;15911;688;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+10+20.aspx;
-29/10/2020;33;16999;0;367;886;34949;16032;600;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+10+20.aspx;
-30/10/2020;41;17040;0;367;910;35196;16095;578;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+10+20.aspx;
-31/10/2020;41;17081;0;367;771;35469;16184;530;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+31+10+20.aspx;
-01/11/2020;39;17120;0;367;745;35681;16186;567;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+11+20.aspx;
-02/11/2020;12;17132;0;367;842;35932;16328;437;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+11+20.aspx;
-03/11/2020;35;17167;3;370;808;36265;16378;419;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+11+20.aspx;
-04/11/2020;41;17208;0;370;817;36546;16462;376;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+11+20.aspx;
-05/11/2020;31;17239;0;370;838;36749;16515;354;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+11+10.aspx;
-06/11/2020;51;17290;0;370;941;37031;16558;362;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+11+20.aspx;
-07/11/2020;53;17343;0;370;719;37200;16589;384;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+11+20.aspx;
-08/11/2020;48;17391;0;370;871;37385;16623;398;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+11+20.aspx;
-09/11/2020;58;17449;1;371;799;37628;16648;430;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+11+20.aspx;
-10/11/2020;61;17510;0;371;715;38008;16664;475;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+11+20.aspx;
-11/11/2020;56;17566;1;372;674;38153;16692;502;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+11+20.aspx;
-12/11/2020;56;17622;1;373;801;38274;16704;545;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+11+20.aspx;
-13/11/2020;49;17671;0;373;843;38423;16758;540;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+11+20.aspx;
-14/11/2020;38;17709;0;373;1001;38615;16779;557;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+11+20.aspx;
-15/11/2020;20;17729;0;373;855;38743;16779;557;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+11+20.aspx;
-16/11/2020;45;17774;0;373;816;38876;16911;490;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+11+20.aspx;
-17/11/2020;54;17828;1;374;971;39072;16960;494;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+11+20.aspx;
-18/11/2020;48;17876;1;375;946;39153;16976;525;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+11+20.aspx;
-19/11/2020;64;17940;0;375;992;39433;17007;558;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+11+20.aspx;
-20/11/2020;54;17994;0;375;1058;39622;17065;554;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+11+20.aspx;
-21/11/2020;39;18033;0;375;1040;39661;17106;552;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+11+20.aspx;
-22/11/2020;53;18086;0;375;933;39812;17208;503;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+11+20.aspx;
-23/11/2020;55;18141;0;375;1115;40074;17292;474;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+11+20.aspx;
-24/11/2020;81;18222;0;375;1053;40200;17327;520;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+11+20.aspx;
-25/11/2020;45;18267;0;375;1161;40339;17344;548;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+11+20.aspx;
-26/11/2020;65;18332;0;375;1081;40559;17364;593;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+11+20.aspx;
-27/11/2020;67;18399;1;376;1160;40787;17438;585;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+11+20.aspx;
-28/11/2020;78;18477;0;376;1285;41104;17476;625;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+11+20.aspx;
-29/11/2020;74;18551;0;376;1264;41346;17503;672;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+11+20.aspx;
-30/11/2020;100;18651;2;378;1380;41705;17586;687;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+11+20.aspx;
-01/12/2020;130;18781;1;379;1427;42119;17599;803;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+12+20.aspx;
-02/12/2020;117;18898;1;380;1316;42474;17651;867;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+12+20.aspx;
-03/12/2020;127;19025;3;383;1180;42704;17707;935;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+12+20.aspx;
-04/12/2020;101;19126;1;384;1197;43092;17787;955;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+12+20.aspx;
-05/12/2020;89;19215;1;385;1166;43258;17831;999;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+12+20.aspx;
-06/12/2020;33;19248;1;386;1136;43521;17937;926;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+12+20.aspx;
-07/12/2020;102;19350;3;389;1072;43792;17943;1018;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+12+20.aspx;
-08/12/2020;104;19454;0;389;1120;43847;18053;1012;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+12+20.aspx;
-09/12/2020;110;19564;2;391;1106;44198;18124;1049;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+12+20.aspx;
-10/12/2020;105;19669;2;393;1261;44490;18175;1101;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+12+20.aspx;
-11/12/2020;121;19790;2;395;1155;44833;18317;1078;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+12+20.aspx;
-12/12/2020;130;19920;1;396;1172;45256;18512;1012;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+12+20.aspx;
-13/12/2020;130;20050;0;396;1079;45444;18511;1143;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+12+20.aspx;
-14/12/2020;123;20173;3;399;1153;45496;18524;1250;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+12+20.aspx;
-15/12/2020;138;20311;1;400;1234;45769;18648;1263;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+12+20.aspx;
-16/12/2020;118;20429;2;402;1237;45946;18791;1236;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+12+20.aspx;
-17/12/2020;68;20497;0;402;1351;46053;18795;1300;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+12+20.aspx;
-18/12/2020;105;20602;1;403;1461;46344;18997;1202;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+12+20.aspx;
-19/12/2020;100;20702;2;405;1721;46598;19083;1214;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+12+20.aspx;
-20/12/2020;117;20819;0;405;1579;46861;19223;1191;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+12+20.aspx;
-21/12/2020;139;20958;2;407;1523;47093;19297;1254;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+12+20.aspx;
-22/12/2020;142;21100;2;409;1339;47666;19443;1248;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+12+20.aspx;
-23/12/2020;148;21248;0;409;1334;48010;19471;1368;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+12+20.aspx;
-24/12/2020;111;21359;0;409;1309;48073;19691;1259;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+12+20.aspx;
-25/12/2020;101;21460;3;412;1309;48360;19969;1079;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+12+20.aspx;
-26/12/2020;128;21588;0;412;1301;48536;19972;1301;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+12+20.aspx;
-27/12/2020;127;21715;0;412;1265;48549;20018;1285;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+12+20.aspx;
-28/12/2020;138;21853;1;413;1420;48931;20226;1214;;;[84];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+12+20.aspx;
-29/12/2020;154;22007;1;414;1373;49224;20393;1200;;;[];[62];http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+12+20.aspx;
-30/12/2020;122;22129;1;415;1624;49556;20448;1266;;;[90];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+12+20.aspx;
-31/12/2020;138;22267;0;415;1224;49919;20588;1264;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+31+12+2020.aspx;
-01/01/2021;149;22416;0;415;1111;50209;20599;1402;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+01+2021.aspx;
-02/01/2021;159;22575;0;415;1110;50485;20747;1413;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+01+2021.aspx;
-03/01/2021;153;22728;1;416;1048;50477;20855;1457;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+01+2021.aspx;
-04/01/2021;179;22907;1;417;1442;50945;20976;1514;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+01+2021.aspx;
-05/01/2021;210;23117;2;419;1369;51231;21166;1532;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+01+2021+67946.aspx;
-06/01/2021;229;23346;2;421;1615;51721;21199;1726;;;[88];[92];http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+01+2021.aspx;
-07/01/2021;276;23622;0;421;1911;51973;21429;1772;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+01+2021.aspx;
-08/01/2021;257;23879;1;422;1787;52449;21545;1912;;;[];[74];http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+01+2021.aspx;
-09/01/2021;293;24172;1;423;1502;52852;21644;2085;;;[];[94];http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+01+2021.aspx;
-10/01/2021;282;24454;0;423;1705;52917;21801;2230;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+01+2021.aspx;
-11/01/2021;284;24738;2;425;1801;53093;22109;2204;;;[70];[72];http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+01+2021.aspx;
-12/01/2021;314;25052;2;427;1939;53381;22253;2373;;;[];[70,89];http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+01+2021.aspx;
-13/01/2021;294;25346;2;429;2063;53969;22288;2629;;;[71,76];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+01+2021.aspx;
-14/01/2021;342;25688;2;431;2080;54068;22398;2859;;;[];[50,57];http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+01+2021.aspx;
-15/01/2021;362;26050;1;432;2308;54602;22665;2953;;;[];[88];http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+01+2021.aspx;
-16/01/2021;323;26373;2;434;2024;54652;22912;3029;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+01+2021.aspx;Óbitos informados no dia 18/01, em http://www.piracicaba.sp.gov.br/saude+alerta+para+aumento+de+casos+de+covid+19.aspx
-17/01/2021;362;26735;1;435;1887;54737;23432;2871;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+01+2021.aspx;Óbitos informados no dia 18/01, em http://www.piracicaba.sp.gov.br/saude+alerta+para+aumento+de+casos+de+covid+19.aspx
-18/01/2021;342;27077;5;440;2068;55076;23764;2873;;;[31,0,0,0,0,83];[83,93];http://www.piracicaba.sp.gov.br/saude+alerta+para+aumento+de+casos+de+covid+19.aspx;
-19/01/2021;347;27424;4;444;2137;55393;24101;2879;;;[];[74,77,79,85];http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+01+2021.aspx;
-20/01/2021;310;27734;2;446;2368;55865;24181;3107;;;[48];[85];http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+01+2021.aspx;
-21/01/2021;323;28057;1;447;2161;55917;24415;3196;;;[];[89];http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+01+2021.aspx;
-22/01/2021;340;28397;1;448;2030;56238;24664;3285;;;[74];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+01+2021.aspx;
-23/01/2021;346;28743;4;452;1708;56396;24962;3329;;;[78,90];[51,87];http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+01+2021.aspx;
-24/01/2021;356;29099;3;455;2217;57030;25310;3334;;;[68,65,48];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+01+2021.aspx;
-25/01/2021;340;29439;4;459;2146;57735;25551;3429;;;[77,81,86];[92];http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+01+2021.aspx;
-26/01/2021;320;29759;3;462;2742;58337;25888;3409;;;[59,59];[85];http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+01+2021.aspx;
-27/01/2021;241;30000;0;462;3004;58900;25995;3543;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+01+2021.aspx;
-28/01/2021;258;30258;2;464;3188;59344;26238;3556;;;[34,84];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+01+2021.aspx;
-29/01/2021;264;30522;1;465;3071;59731;26623;3071;;;[];[86];http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+01+2021.aspx;
-30/01/2021;252;30774;1;466;3143;60029;27367;2941;;;[];[68];http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+01+2021.aspx;
-31/01/2021;267;31041;5;471;3224;60189;27554;3016;;;[82];[73,74,83,91];http://www.piracicaba.sp.gov.br/plantao+coronavirus+31+01+2021.aspx;
-01/02/2021;244;31285;5;476;3475;60647;27858;2951;;;[61,65];[75,86,91];http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+02+2021.aspx;
-02/02/2021;257;31542;1;477;3092;61084;28196;2869;;;[74];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+02+2021.aspx;
-03/02/2021;244;31786;2;479;3307;61569;28549;2758;;;[61];[56];http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+02+2021.aspx;
-04/02/2021;236;32022;2;481;3050;61750;29012;2529;;;[84];[80];http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+02+2021.aspx;
-05/02/2021;215;32237;3;484;3156;61871;29413;2340;;;[61,85];[64];http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+02+2021.aspx;
-06/02/2021;152;32389;0;484;2762;62121;29585;2320;;;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+02+2021.aspx;
-07/02/2021;162;32551;2;486;2908;62493;29836;2229;;;[75];[74];http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+02+2021.aspx;
-08/02/2021;120;32671;3;489;2993;62791;30132;2050;;;[75];[61,69];http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+02+2021.aspx;
-09/02/2021;160;32831;3;492;2461;63171;30415;1924;66;39;[68];[45,88];http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+02+2021.aspx;
-10/02/2021;149;32980;3;495;2571;63439;30615;1870;57;43;[74,86];[63];http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+02+2021.aspx;
-11/02/2021;160;33140;3;498;2427;63690;30857;1785;67;37;[78];[68,92];http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+02+2021.aspx;
-12/02/2021;128;33268;2;500;2499;64061;31169;1599;65;37;[];[56,61];http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+02+2021.aspx;
-13/02/2021;129;33397;2;502;2199;64239;31334;1561;65;37;[];[68,82];http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+02+2021.aspx;
-14/02/2021;144;33541;6;508;2151;64251;31364;1669;62;37;[54,70,83,84];[83,85];http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+02+2021.aspx;
-15/02/2021;124;33665;2;510;1957;64393;31364;1791;61;35;[67];[84];http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+02+2021.aspx;
-16/02/2021;134;33799;1;511;2113;64455;31454;1834;61;39;[];[81];http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+02+2021.aspx;
-17/02/2021;110;33909;1;512;1918;64541;31498;1899;64;39;[];[75];http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+02+2021.aspx;
-18/02/2021;112;34021;2;514;2016;64630;31608;1899;64;33;[];[61,81];http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+02+2021.aspx;
-19/02/2021;77;34098;1;515;2078;64737;31920;1663;61;29;[];[59];http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+02+2021.aspx;
-20/02/2021;56;34154;8;523;1816;64979;31959;1672;54;29;[55,58,63,70,80,82];[55,78];http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+02+2021.aspx;
-21/02/2021;104;34258;1;524;1887;65152;32099;1635;55;28;[];[90];http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+02+2021.aspx;
-22/02/2021;125;34383;2;526;1775;65732;32117;1740;50;30;[78,81];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+02+2021.aspx;
-23/02/2021;122;34505;3;529;1987;65507;32308;1668;61;29;[77,86];[49];http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+02+2021.aspx;
-24/02/2021;123;34628;0;529;1713;65670;32560;1539;60;33;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+02+2021.aspx;
-25/02/2021;119;34747;1;530;1768;65892;32760;1457;61;35;[84];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+02+2021.aspx;
-26/02/2021;118;34865;0;530;1403;66297;32954;1381;62;39;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+02+2021.aspx;
-27/02/2021;79;34944;2;532;1292;66367;33233;1178;59;41;[34];[62,78];http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+02+2021.aspx;Marcando 1 a mais
-28/02/2021;24;34968;7;539;1264;66382;33419;1009;58;41;[57,65,66,79];[48,62,78];http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+02+2021.aspx;Marcando 1 a mais
-01/03/2021;59;35027;2;541;1081;66507;33536;949;68;42;[57,70];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+03+2021+68274.aspx;Marcando 1 a mais
-02/03/2021;90;35117;4;545;1510;66970;33663;908;70;41;[67,71];[63,73];http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+03+2021.aspx;Marcando 1 a mais
-03/03/2021;130;35247;3;548;1479;67186;33742;957;76;42;[63];[78];http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+03+2021.aspx;
-04/03/2021;49;35296;4;552;1369;67263;34047;697;80;50;[66,86];[68,86];http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+03+2021.aspx;
-05/03/2021;124;35420;0;552;1376;67740;34097;771;89;50;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+03+2021+68332.aspx;
-06/03/2021;154;35574;0;552;1457;67992;34101;921;88;50;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+03+2021.aspx;
-07/03/2021;151;35725;2;554;1428;68189;34210;961;86;54;[41];[69];http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+03+2021.aspx;
-08/03/2021;105;35830;0;554;1363;68314;34329;947;90;52;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+03+2021.aspx;
-09/03/2021;138;35968;0;554;1302;68598;34467;947;81;52;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+03+2021.aspx;
-10/03/2021;142;36110;2;556;1343;68989;34511;1043;81;57;[76];[93];http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+03+2021.aspx;
-11/03/2021;152;36262;2;558;1486;69149;34513;1191;92;60;[78,79];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+03+2021.aspx;
-12/03/2021;143;36405;3;561;1489;69334;34640;1204;87;62;[62,88];[62];http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+03+2021.aspx;
-13/03/2021;151;36556;1;562;1428;69480;34648;1346;92;63;[];[84];http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+03+2021.aspx;
-14/03/2021;136;36692;2;564;1771;69660;34929;1199;78;62;[71,75];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+03+2021.aspx;
-15/03/2021;150;36842;4;568;1708;69847;35055;1219;85;68;[36];[60,62,81];http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+03+2021.aspx;
-16/03/2021;178;37020;4;572;1736;70119;35363;1085;87;61;[57,77,82];[60,62,81];http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+03+2021.aspx;
-17/03/2021;162;37182;9;581;1736;70191;35401;1200;81;60;[42,52,58,61,68,90];[55,73,82];http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+03+2021.aspx;
-18/03/2021;197;37379;0;581;1593;70204;35529;1269;89;63;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+03+2021+68420.aspx;
-19/03/2021;167;37546;1;582;1840;70597;35604;1360;94;67;[];[85];http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+03+2021.aspx;
-20/03/2021;182;37728;3;585;1812;70933;35604;1539;94;68;[79];[47,76];http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+03+2021.aspx;
-21/03/2021;186;37914;0;585;1430;71268;35808;1521;94;71;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+03+2021.aspx;
-22/03/2021;195;38109;2;587;1376;71502;36064;1458;97;76;[39];[64];http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+03+2021.aspx;
-23/03/2021;213;38322;6;593;1388;71750;36266;1463;98;76;[35,66,70];[41,47,71];http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+03+2021+68455.aspx;
-24/03/2021;206;38528;7;600;1591;71995;36571;1357;99;74;[66,68,71,75];[77,82,87];http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+03+2021+68464.aspx;
-25/03/2021;216;38744;4;604;1513;72334;36709;1431;100;80;[57,78,84];[75];http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+03+2021.aspx;
-26/03/2021;211;38955;3;607;1718;72674;36785;1563;102;71,2;[];[68,81,86];http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+03+2021.aspx;
-27/03/2021;177;39132;9;616;1656;72730;36872;1644;101;75;[55,58,61,79,96];[61,64,70,72];http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+03+2021.aspx;
-28/03/2021;168;39300;4;620;1605;72769;36921;1759;102;80;[56,70,77];[55];http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+03+2021.aspx;
-29/03/2021;101;39401;7;627;1574;72744;36921;1853;99;81;[39,59,61,64,68,73];[73];http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+03+2021.aspx;
-30/03/2021;193;39594;13;640;1548;73110;37274;1680;100;86;[41,42,52,57,62,71,73,77];[38,57,69,85,87];http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+03+2021.aspx;
-31/03/2021;221;39815;5;645;1625;73205;37371;1799;99;86;[74];[42,79,80,104];http://www.piracicaba.sp.gov.br/plantao+coronavirus+31+03+2021.aspx;
-01/04/2021;224;40039;8;653;1513;73539;37519;1867;93;83;[54,71,73];[60,66,68,84,87];http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+04+2021.aspx;
-02/04/2021;258;40297;11;664;1441;73837;37541;2092;89;81;[74,81,81,84];[53,63,65,65,67,92,95];http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+04+2021.aspx;
-03/04/2021;262;40559;5;669;1422;74206;38118;1772;89;80;[59,76,84];[42,72];http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+04+2021.aspx;
-04/04/2021;266;40825;5;674;1193;74701;38327;1824;94;77;[60,92];[66,78,81];http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+04+2021.aspx;
-05/04/2021;275;41100;4;678;1149;74791;38497;1925;82;70;[47,73,82];[81];http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+04+2021.aspx;
-06/04/2021;292;41392;13;691;1136;74802;38603;2098;91;67;[11];[2];http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+04+2021.aspx;
-07/04/2021;296;41688;6;697;1209;75057;38607;2384;92;66;[6];[1];http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+04+2021.aspx;
-08/04/2021;258;41946;10;707;1337;75287;38930;2309;88;67;[57,60,66,70,72,74];[48,81,81,89];http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+04+2021.aspx;
-09/04/2021;248;42194;14;721;1184;75377;39265;2208;84;71;[47,52,56,57,66,69,71,74,79];[27,67,68,77,83];http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+04+2021.aspx;
-10/04/2021;175;42369;14;735;1292;75452;39431;2203;79;70;[48, 52,60,65,70,71,76,78];[25,64, 65,68,71,96];http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+04+2021+68556.aspx;
-11/04/2021;153;42522;5;740;1055;75679;39502;2280;83;72;[77,82];[29,52,77];http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+04+2021.aspx;
-12/04/2021;138;42660;6;746;1016;76022;39604;2310;81;70;[58,66,71,78];[72,99];http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+04+2021.aspx;
-13/04/2021;135;42795;8;754;1093;76277;40241;1800;78;67;[62,87];[40,48,54,69,73,77];http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+04+2021.aspx;
-14/04/2021;125;42920;6;760;1012;76295;40656;1504;78;57;[61,65,72,79];[69,79];http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+04+2021.aspx;
-15/04/2021;140;43060;4;764;1086;76707;40667;1629;81;56;[56,56,69];[84];http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+04+2021.aspx;
-16/04/2021;144;43204;8;772;1118;76894;40932;1500;81;58;[55,67,69,72,76];[38,65,67];http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+04+2021.aspx;
-17/04/2021;133;43337;2;774;1103;76988;41187;1376;81;58;[66];[65];http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+04+2021.aspx;
-18/04/2021;123;43460;4;778;1017;77074;41429;1235;78;59;[43,48,66,78];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+04+2021.aspx;
-19/04/2021;134;43594;6;784;806;77395;41689;1121;72;57;[31,69,72,74,84];[31];http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+04+2021.aspx;
-20/04/2021;134;43728;11;795;703;77623;41736;1197;77;55;[44,47,58,60,66,67,69,70,73];[66,73];http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+04+2021.aspx;
-21/04/2021;151;43879;9;804;688;77846;41859;1216;76;55;[36,42,73,73];[54,56,67,68,70];http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+04+2021.aspx;
-22/04/2021;145;44024;7;811;932;78028;42050;1163;71;54;[36,47,60];[40,68,70,84];http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+04+2021.aspx;
-23/04/2021;148;44172;3;814;725;78360;42051;1307;71;53;[];[66,74,77];http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+04+2021.aspx;
-24/04/2021;131;44303;6;820;723;78513;42111;1372;68;52;[54,54,56,63];[59,73];http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+04+2021.aspx;
-25/04/2021;120;44423;4;824;612;78670;42239;1360;69;53;[51,56];[35,44];http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+04+2021.aspx;
-26/04/2021;124;44547;5;829;664;78851;42649;1069;69;50;[51,69,88];[56,57];http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+04+2021.aspx;
-27/04/2021;107;44654;3;832;696;79107;42776;1046;70;53;[64,69];[74];http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+04+2021.aspx;
-28/04/2021;148;44802;12;844;621;79189;42903;1055;74;60;[46,47,60,63,66,77];[62,63,69,74,76,85];http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+04+2021.aspx;
-29/04/2021;144;44946;0;844;1042;79468;42903;1199;78;62;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+04+2021.aspx;
-30/04/2021;150;45096;4;848;1086;79642;42953;1295;77;68;[62,85];[69,87];http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+04+2021.aspx;
-01/05/2021;133;45229;2;850;1075;79744;42954;1425;76;67;[70];[79];http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+05+2021.aspx;
-02/05/2021;162;45391;1;851;875;80116;43187;1353;80;74;[];[67];http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+05+2021.aspx;
-03/05/2021;149;45540;5;856;869;80356;43315;1369;78;65;[21,46,68,70,78];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+05+2021.aspx;
-04/05/2021;156;45696;6;862;872;80544;43512;1322;82;66;[56];[60,67,67,75,95];http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+05+2021.aspx;
-05/05/2021;181;45877;3;865;1018;80676;43630;1382;81;66;[52];[26,26,56];http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+05+2021.aspx;
-06/05/2021;178;46055;4;869;822;81042;43700;1486;80;68;[63,68,81];[77];http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+05+2021.aspx;
-07/05/2021;182;46237;4;873;953;81251;43799;1565;82;66;[];[40,72,76,78];http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+05+2021+68745.aspx;
-08/05/2021;187;46424;7;880;1070;81454;43938;1606;82;70;[48,60,60,67];[58,60,63];http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+05+2021.aspx;
-09/05/2021;181;46605;1;881;1029;81484;44081;1643;84;72;[61];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+05+2021.aspx;
-10/05/2021;178;46783;4;885;755;81644;44230;1668;80;75;[65, 67, 73];[37];http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+05+2021.aspx;
-11/05/2021;187;46970;4;889;703;81909;44514;1567;82;72;[59];[59,67,68];http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+05+2021.aspx;
-12/05/2021;186;47156;3;892;711;82180;44824;1440;91;72;[55,58];[61];http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+05+2021.aspx;
-13/05/2021;188;47344;3;895;717;82393;45166;1283;90;77;[52,87];[65];http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+05+2021+68800.aspx;
-14/05/2021;223;47567;5;900;871;82558;45200;1467;89;75;[51,54,55];[54,70];http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+05+2021.aspx;
-15/05/2021;185;47752;4;904;865;82856;45480;1368;89;73;[48];[58,61,83];http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+05+2021.aspx;
-16/05/2021;184;47936;0;904;865;83032;45506;1526;90;76;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+05+2021.aspx;
-17/05/2021;191;48127;4;908;865;83097;45695;1524;91;80;[40,41,64,65];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+05+2021.aspx;
-18/05/2021;191;48318;2;910;867;83382;45867;1541;91;82;[];[53,85];http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+05+2021.aspx;
-19/05/2021;194;48512;5;915;862;83708;46050;1547;91;85;[57,59];[67,73,77];http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+05+2021.aspx;
-20/05/2021;199;48711;7;922;1008;83987;46231;1558;88;70;[51,52,62,62,76,81];[85];http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+05+2021.aspx;
-21/05/2021;199;48910;6;928;1004;84229;46250;1732;94;67;[36,47,55,60,67];[85,72,72,69,61,60,60,51,47,44,41,40,39,38,38,37,37,37,30,30,29,29,27,26,25,24,23,22];http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+05+2021.aspx;
-22/05/2021;208;49118;3;931;1125;84332;46512;1675;91;70;[95];[68,86];http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+05+2021.aspx;
-23/05/2021;214;49332;3;934;1125;84664;46782;1616;92;69;[];[45,61,62];http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+05+2021.aspx;
-24/05/2021;233;49565;3;937;886;84826;46962;1666;94;66;[91];[69,83];http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+05+2021.aspx;
-25/05/2021;217;49782;11;948;1002;84967;47144;1690;93;67;[57,64,66,72];[59,62,64,66,74,80];http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+05+2021.aspx;
-26/05/2021;216;49998;2;950;963;85175;47330;1718;93;74;[101];[49];http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+05+2021.aspx;
-27/05/2021;235;50233;6;956;936;85399;47493;1784;91;77;[49,82];[57,65,77,82];http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+05+2021.aspx;
-28/05/2021;230;50463;7;963;936;85510;47705;1795;90;75;[52,53,62,67,82];[41,57];http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+05+2021.aspx;
-29/05/2021;236;50699;10;973;808;85747;47811;1915;86;73;[59,66,69,69,72];[51,61,64,65,92  ];http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+05+2021.aspx;
-30/05/2021;229;50928;1;974;808;85974;47812;2142;89;75;[];[60];http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+05+2021.aspx;
-31/05/2021;261;51189;2;976;808;86097;48159;2054;89;70;[34];[45];http://www.piracicaba.sp.gov.br/plantao+coronavirus+31+05+2021.aspx;
-01/06/2021;229;51418;8;984;520;86561;48365;2069;87;73;[59,66,69,69,72];[48,59];http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+06+2021.aspx;
-02/06/2021;255;51673;6;990;893;86788;48366;2317;80;71;[52,54,57];[60,70,87];http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+06+2021.aspx;
-03/06/2021;275;51948;6;996;950;87250;48592;2360;94;85;[54,61,62,64,64];[71];http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+06+2021.aspx;
-04/06/2021;282;52230;2;998;211;87625;48784;2448;89;86;[89];[63];http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+06+2021.aspx;
-05/06/2021;278;52508;8;1006;1143;87815;48996;2506;93;86;[28,51,59,62,65];[50,61,93];http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+06+2021.aspx;
-06/06/2021;282;52790;4;1010;1143;88025;49225;2555;92;84;[59,61];[44,84];http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+06+2021.aspx;
-07/06/2021;297;53087;4;1014;1080;88243;49450;2623;98;79;[45,51,67,73];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+06+2021.aspx;
-08/06/2021;280;53367;2;1016;1136;88430;49871;2480;98;79;[60];[87];http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+06+2021.aspx;
-09/06/2021;287;53654;7;1023;1113;88637;50168;2463;98;78;[59,63,72,80];[51,51,85];http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+06+2021.aspx;
-10/06/2021;295;53949;2;1025;1070;88937;50392;2532;98;74;[30,56];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+06+2021.aspx;
-11/06/2021;292;54241;6;1031;1001;89202;50761;2449;98;75;[48,60,65];[56,67,76];http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+06+2021.aspx;
-12/06/2021;276;54517;7;1038;1013;89973;50906;2573;96;80;[55,62,68];[46,52,73,82];http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+06+2021.aspx;
-13/06/2021;276;54793;4;1042;861;90003;51207;2544;95;77;[41,49, 59];[60];http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+06+2021.aspx;
-14/06/2021;295;55088;6;1048;1267;90159;51480;2560;92;70;[44,46,51,56];[76,82];http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+05+2021+69093.aspx;
-15/06/2021;295;55383;9;1057;1373;90217;51757;2569;95;90;[45,49,49,61,67,68];[60,75,82];http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+06+2021.aspx;
-16/06/2021;288;55671;11;1068;1751;90343;52048;2555;98;75;[49,59,60,68,82];[45,49,49,67,75,82];http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+06+2021.aspx;
-17/06/2021;238;55909;10;1078;1822;90752;52055;2776;101;72;[46,48,59,60,62,74,78,83];[42,45];http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+06+2021.aspx;
-18/06/2021;262;56171;6;1084;1679;90869;52606;2481;98;66;[34,68,70];[49,74,96];http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+06+2021.aspx;
-19/06/2021;257;56428;9;1093;1677;91096;52891;2444;98;65;[47,56,57,60,60,68];[55,71,76];http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+06+2021.aspx;
-20/06/2021;248;56676;5;1098;1677;91401;52998;2580;94;73;[56,62,66,80];[48];http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+06+2021.aspx;
-21/06/2021;255;56931;4;1102;1641;91507;53178;2651;92;63;[45];[57,77,92];http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+06+2021+69145.aspx;
-22/06/2021;257;57188;7;1109;1783;91627;53448;2631;92;60;[33,54,65,82];[44,82,85];http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+06+2021.aspx;
-23/06/2021;264;57452;3;1112;1635;91788;53722;2618;92;72;[69,81];[38];http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+06+2021.aspx;
-24/06/2021;237;57689;7;1119;1803;92059;54011;2559;98;64;[51,70];[38,53,78,85,87];http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+06+2021.aspx;
-25/06/2021;274;57963;7;1126;1524;92392;54300;2537;96;94;[50,64,70,83];[39,48,88];http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+06+2021.aspx;
-26/06/2021;262;58225;9;1135;1428;92689;54611;2479;98;64;[41,67,68,70,74];[30,39,53,64];http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+06+2021.aspx;
-27/06/2021;248;58473;4;1139;1428;92972;54828;2506;96;65;[53];[51,90,96];http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+06+2021+69202.aspx;
-28/06/2021;259;58732;8;1147;1532;93126;55047;2538;95;64;[35,45,50,58,74];[39,65,94];http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+06+2021.aspx;
-29/06/2021;254;58986;5;1152;1500;93276;55296;2538;83;66;[53,73,78];[39,79];http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+06+2021.aspx;
-30/06/2021;214;59200;11;1163;1629;93433;55541;2496;82;69;[31,36,52,52,64,66,66,70];[50,66,78];http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+06+2021.aspx;
-01/07/2021;245;59445;9;1172;1633;93595;55789;2484;76;65;[51,63,84,93];[40,50,56,58,85];http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+07+2021.aspx;
-02/07/2021;226;59671;5;1177;1549;93790;56042;2452;75;58;[47,51,73];[57,73];http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+06+2021+69238.aspx;
-03/07/2021;212;59883;3;1180;1528;93958;56305;2398;76;58;[76];[68,89];http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+07+2021.aspx;
-04/07/2021;211;60094;5;1185;1525;94141;56533;2376;74;53;[61,90];[48,52,65];http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+07+2021.aspx;
-05/07/2021;205;60299;5;1190;1408;94378;56804;2305;82;46;[42,48,74];[89,94];http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+07+2021.aspx;
-06/07/2021;209;60508;5;1195;1477;94626;57058;2255;82;48;[74];[45,63,63,82];http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+07+2021.aspx;
-07/07/2021;213;60721;9;1204;1475;94785;57297;2220;83;43;[49,57,66,90];[19,48,51,58,75];http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+07+2021.aspx;
-08/07/2021;199;60920;8;1212;1599;94908;57550;2158;84;40;[65];[66,73,79,83,90,96,97];http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+07+2021.aspx;
-09/07/2021;186;61106;3;1215;1570;95003;57792;2099;83;36;[];[67,70,79];http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+07+2021.aspx;
-10/07/2021;168;61274;4;1219;1440;95141;57994;2061;82;38;[43,52];[42,64];http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+07+2021.aspx;
-11/07/2021;130;61404;1;1220;1440;95245;58231;1953;83;48;[];[75];http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+07+2021.aspx;
-12/07/2021;143;61547;3;1223;1513;95356;58452;1872;80;50;[56,57];[71];http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+07+2021.aspx;
-13/07/2021;168;61715;1;1224;1505;95497;58662;1829;81;42;[];[73];http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+07+2021.aspx;
-14/07/2021;176;61891;3;1227;1615;95630;58866;1778;82;44;[55];[67,67];http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+07+2021.aspx;
-15/07/2021;166;62057;2;1229;1609;95833;59089;1739;84;46;[68];[72];http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+07+2021.aspx;
-16/07/2021;121;62178;4;1233;1612;95965;59282;1663;76;38;[21,94];[58,85];http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+07+2021.aspx;
-17/07/2021;118;62296;1;1234;1633;96162;59490;1633;76;51;[58];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+07+2021.aspx;
-18/07/2021;114;62410;4;1238;1594;96321;59698;1474;77;47;[43,58];[83,100];http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+07+2021.aspx;
-19/07/2021;125;62535;2;1240;1576;96520;59884;1411;75;49;[];[41,86];http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+07+2021.aspx;
-20/07/2021;112;62647;3;1243;1632;96651;60051;1353;73;42;[70,75];[74];http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+07+2021.aspx;
-21/07/2021;127;62774;3;1246;1689;96818;60174;1354;69;45;[53,70];[61];http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+07+2021.aspx;
-22/07/2021;124;62898;7;1253;1572;97056;60313;1332;63;35;[33,56,75];[42,58,73,78];http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+07+2021.aspx;
-23/07/2021;122;63020;2;1255;1407;97347;60495;1269;64;32;[58];[73];http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+07+2021.aspx;
-24/07/2021;128;63148;1;1256;1182;97619;60705;1187;68;32;[64];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+07+2021.aspx;
-25/07/2021;129;63277;0;1256;1182;97811;60888;1133;66;31;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+07+2021.aspx;
-26/07/2021;150;63427;5;1261;1396;97892;61001;1165;64;35;[36,44,47];[50,77];http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+07+2021+69393.aspx;
-27/07/2021;179;63606;10;1271;1388;97914;61058;1277;54;50;[44,45,59,66,73,83];[45,53,82];http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+07+2021.aspx;
-28/07/2021;130;63736;3;1274;1129;98030;61133;1329;59;37;[84];[42,83];http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+07+2021.aspx;
-29/07/2021;135;63871;6;1280;1023;98226;61262;1329;58;46;[60,68,72,75,88,88];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+07+2021.aspx;
-30/07/2021;137;64008;2;1282;1022;98328;61377;1349;55;37;[46];[45];http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+07+2021.aspx;
-31/07/2021;135;64143;3;1285;1206;98494;61544;1304;52;32;[82];[52,86];http://www.piracicaba.sp.gov.br/plantao+coronavirus+31+07+2021.aspx;
-01/08/2021;141;64284;2;1287;1206;98712;61680;1317;53;33;[];[63,68];http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+08+2021.aspx;
-02/08/2021;112;64396;2;1289;1241;98837;61804;1303;48;38;[75,80];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+08+2021.aspx;
-03/08/2021;123;64519;2;1291;1182;98976;61823;1405;46;27;[];[33,91];http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+08+2021.aspx;
-04/08/2021;159;64678;3;1294;1087;99174;61946;1438;51;31;[39,56,66];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+08+2021.aspx;
-05/08/2021;119;64797;3;1297;1087;99323;62092;1408;48;25;[81,89];[72];http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+08+2021.aspx;
-06/08/2021;133;64930;3;1300;1226;99451;62252;1378;49;31;[70,74,74];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+08+2021.aspx;
-07/08/2021;142;65072;1;1301;1041;99495;62406;1365;48;34;[55];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+08+2021.aspx;
-08/08/2021;130;65202;3;1304;1206;99643;62533;1365;43;40;[64,89];[68];http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+08+2021.aspx;
-09/08/2021;111;65313;2;1306;1145;99864;62681;1326;47;54;[50,58];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+08+2021.aspx;
-10/08/2021;107;65420;2;1308;1353;100002;62806;1306;45;42;[49];[70];http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+08+2021.aspx;
-11/08/2021;105;65525;2;1310;1375;100217;62969;1246;41;38;[76];[46];http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+08+2021.aspx;
-12/08/2021;100;65625;3;1313;1223;100310;63155;1157;42;39;[31,66,72];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+08+2021.aspx;
-13/08/2021;90;65715;1;1314;1423;100524;63164;1237;48;35;[57];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+08+2021.aspx;
-14/08/2021;89;65804;2;1316;1365;100695;63309;1179;49;37;[48,65];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+08+2021.aspx;
-15/08/2021;85;65889;1;1317;1309;100839;63442;1149;48;36;[];[71];http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+08+2021.aspx;Site marcando 1 a menos no total
-16/08/2021;76;65965;5;1322;1555;100951;63553;1089;42;32;[40,76,76,93];[40];http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+08+2021.aspx;Site marcando 1 a menos no total
-17/08/2021;81;66046;1;1323;1603;101205;63680;1042;45;24;[];[68];http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+08+2021.aspx;Site marcando 1 a menos no total
-18/08/2021;77;66123;1;1324;1730;101387;63802;996;42;27;[];[68];http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+08+2021.aspx;Site marcando 1 a menos no total
-19/08/2021;61;66184;4;1328;1831;101585;63889;966;37;30;[40];[50,58,81];http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+08+2021.aspx;Site marcando 1 a menos no total
-20/08/2021;52;66236;2;1330;1857;101756;63989;916;40;27;[39];[81];http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+08+2021.aspx;
-21/08/2021;37;66273;0;1330;1934;101939;64093;849;39;27;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+08+2021.aspx;
-22/08/2021;40;66313;3;1333;1858;102091;64192;787;41;28;[75,76,77];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+08+2021.aspx;
-23/08/2021;33;66346;0;1333;1946;102224;64277;735;39;23;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+08+2021.aspx;6 casos delta confirmados: http://www.piracicaba.sp.gov.br/piracicaba+confirma+seis+casos+da+variante+delta+da+covid+19.aspx
-24/08/2021;45;66391;0;1333;1864;102389;64344;713;39;23;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+08+2021.aspx;
-25/08/2021;42;66433;3;1336;1851;102566;64407;689;39;17;[57];[74,89];http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+08+2021.aspx;
-26/08/2021;49;66482;1;1337;1796;102664;64483;661;37;15;[];[63];http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+08+2021.aspx;
-27/08/2021;51;66533;0;1337;1655;102939;64559;636;37;16;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+08+2021.aspx;
-28/08/2021;54;66587;3;1340;1574;103156;64635;611;35;20;[70];[48,81];http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+08+2021.aspx;
-29/08/2021;56;66643;1;1341;1571;103219;64681;620;33;29;[78];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+08+2021.aspx;
-30/08/2021;67;66710;3;1344;1631;103325;64727;638;29;35;[51,57,73];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+08+2021.aspx;Primeiro óbito variante delta, mulher 74 anos: http://www.piracicaba.sp.gov.br/covid+19+piracicaba+confirma+primeira+morte+pela+variante+delta.aspx
-31/08/2021;57;66767;0;1344;1592;103438;64770;652;31;19;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+31+08+2021.aspx;
-01/09/2021;58;66825;1;1345;1643;103568;64800;679;40;17;[];[99];http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+09+2021.aspx;
-02/09/2021;60;66885;3;1348;1635;103791;64816;720;40;9;[74,84];[78];http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+09+2021.aspx;
-03/09/2021;62;66947;1;1349;1644;103910;64823;774;40;19;[87];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+09+2021.aspx;
-04/09/2021;60;67007;2;1351;1593;103999;64858;797;40;17;[];[54,63];http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+09+2021.aspx;
-05/09/2021;56;67063;0;1351;1574;104038;64883;828;38;17;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+09+2021.aspx;
-06/09/2021;50;67113;1;1352;1495;104231;64993;827;47;19;[61];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+09+2021.aspx;
-07/09/2021;55;67168;3;1355;1327;104426;64979;833;35;19;[];[51,70,73];http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+09+2021.aspx;
-08/09/2021;59;67227;1;1356;1322;104570;64999;871;36;27;[];[81];http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+09+2021.aspx;
-09/09/2021;53;67280;1;1357;1207;104673;65056;866;29;22;[56];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+09+2021.aspx;
-10/09/2021;59;67339;0;1357;1132;104757;65113;868;29;23;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+09+2021.aspx;
-11/09/2021;58;67397;1;1358;959;104930;65176;862;29;23;[72];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+09+2021.aspx;
-12/09/2021;62;67459;0;1358;958;105023;65236;864;31;19;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+09+2021.aspx;
-13/09/2021;64;67523;0;1358;875;105117;65269;895;29;21;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+09+2021.aspx;
-14/09/2021;44;67567;0;1358;874;105205;65362;846;27;19;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+09+2021.aspx;
-15/09/2021;59;67626;3;1361;1077;105219;65371;893;31;11;[53];[68,75];http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+09+2021.aspx;
-16/09/2021;59;67685;0;1361;1072;105317;65528;795;33;18;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+09+2021.aspx;
-17/09/2021;58;67743;3;1364;1072;105447;65702;676;22;19;[70,89];[62];http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+09+2021.aspx;
-18/09/2021;51;67794;1;1365;1052;105542;65841;587;21;21;[];[87];http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+09+2021.aspx;
-19/09/2021;52;67846;0;1365;918;105638;65917;563;21;21;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+09+2021.aspx;
-20/09/2021;63;67909;2;1367;1086;105758;65976;565;27;25;[];[80,101];http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+09+2021.aspx;
-21/09/2021;66;67975;1;1368;1313;105951;66032;574;31;16;[76];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+09+2021.aspx;
-22/09/2021;68;68043;2;1370;1456;106128;66091;581;22;23;[55];[56];http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+09+2021.aspx;
-23/09/2021;65;68108;0;1370;1484;106277;66149;581;26;21;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+09+2021.aspx;
-24/09/2021;71;68179;0;1370;1611;106480;66193;615;26;16;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+09+2021.aspx;
-25/09/2021;65;68244;1;1371;1611;106617;66252;620;24;12;[54];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+09+2021.aspx;
-26/09/2021;63;68307;1;1372;1610;106719;66309;625;24;11;[64];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+09+2021.aspx;
-27/09/2021;61;68368;0;1372;1513;106816;66367;628;26;23;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+09+2021.aspx;
-28/09/2021;52;68420;0;1372;1679;106978;66415;632;20;13;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+09+2021.aspx;
-29/09/2021;52;68472;0;1372;1671;107026;66467;632;24;11;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+09+2021.aspx;
-30/09/2021;57;68529;0;1372;1655;107126;66534;622;22;21;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+09+2021.aspx;
-01/10/2021;57;68586;1;1373;1639;107310;66599;613;24;29;[77];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+10+2021.aspx;
-02/10/2021;43;68629;1;1374;1639;107456;66665;589;24;29;[];[51];http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+10+2021.aspx;
-03/10/2021;40;68669;0;1374;1491;107604;66730;564;24;23;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+10+2021.aspx;
-04/10/2021;32;68701;0;1374;1703;107767;66800;526;17;27;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+10+2021.aspx;
-05/10/2021;35;68736;3;1377;1538;107913;66863;495;16;29;[39];[72,95];http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+10+2021.aspx;
-06/10/2021;40;68776;1;1378;1465;108222;66985;447;14;21;[];[77];http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+10+2021.aspx;
-07/10/2021;37;68813;2;1380;1529;108073;66924;469;16;19;[54,63];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+10+2021.aspx;
-08/10/2021;22;68835;1;1381;1426;108402;67038;415;11;21;[69];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+10+2021.aspx;
-09/10/2021;26;68861;0;1381;1388;108562;67097;382;11;19;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+10+2021.aspx;
-10/10/2021;27;68888;0;1381;1388;108737;67152;354;11;15;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+10+2021.aspx;
-11/10/2021;27;68915;1;1382;1388;108878;67207;325;13;15;[97];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+10+2021.aspx;
-12/10/2021;22;68937;0;1382;1274;108992;67251;303;13;10;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+10+2021.aspx;
-13/10/2021;23;68960;3;1385;1449;109049;67289;285;11;8;[68,76];[64];http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+10+2021.aspx;
-14/10/2021;19;68979;0;1385;1345;109196;67321;272;11;19;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+10+2021.aspx;
-15/10/2021;23;69002;0;1385;1345;109208;67356;260;13;15;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+10+2021.aspx;
-16/10/2021;16;69018;0;1385;1242;109385;67391;241;14;15;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+10+2021.aspx;
-17/10/2021;17;69035;0;1385;1242;109418;67431;218;13;13;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+10+2021.aspx;
-18/10/2021;23;69058;0;1385;1181;109517;67450;222;13;6;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+10+2021.aspx;
-19/10/2021;26;69084;0;1385;1087;109627;67471;227;16;8;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+10+2021.aspx;
-20/10/2021;24;69108;0;1385;1031;109708;67498;224;13;6;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+10+2021.aspx;
-21/10/2021;21;69129;0;1385;1031;109780;67525;218;10;10;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+10+2021.aspx;
-22/10/2021;17;69146;0;1385;952;109854;67547;213;10;8;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+10+2021.aspx;
-23/10/2021;13;69159;0;1385;951;109908;67558;215;10;8;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+10+2021.aspx;
-24/10/2021;19;69178;0;1385;951;109945;67577;215;10;10;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+10+2021.aspx;
-25/10/2021;10;69188;0;1385;755;110141;67598;204;14;13;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+10+2021.aspx;
-26/10/2021;12;69200;1;1386;1123;110226;67617;197;10;21;[];[89];http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+10+2021.aspx;
-27/10/2021;7;69207;0;1386;1123;110322;67630;191;11;15;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+10+2021.aspx;
-28/10/2021;12;69219;0;1386;1051;110483;67654;179;5;10;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+10+2021.aspx;
-29/10/2021;8;69227;0;1386;850;110677;67673;167;6;6;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+10+2021.aspx;
-02/11/2021;9;69236;0;1386;624;111189;67763;108;3;6;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+10+a+02+11.aspx;Divulgação agora é duas vezes na semana
-05/11/2021;21;69257;0;1386;1139;111460;67807;80;2;15;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+3+11+a+5+11.aspx;
-09/11/2021;39;69296;3;1389;1201;111791;67838;90;5;17;[46];[61,74];http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+11+a+09+11.aspx;
-12/11/2021;31;69327;2;1391;1283;112086;67858;99;5;15;[];[45,63];http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+11+a+12+11.aspx;
-16/11/2021;37;69364;0;1391;1313;112449;67895;99;11;7;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+11+a+16+11.aspx;
-19/11/2021;20;69384;0;1391;1318;112741;67921;93;5.4;24;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+11+a+19+11.aspx;
-23/11/2021;24;69408;1;1392;1046;113344;67958;79;9;14;[87];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+11+a+23+11+70382.aspx;
-26/11/2021;19;69427;0;1392;1104;113781;67989;67;8;20;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+11+a+26+11.aspx;
-30/11/2021;40;69467;0;1392;1084;114077;68017;79;3;10;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+11+a+30+11.aspx;
-03/12/2021;37;69504;0;1392;947;114278;68032;101;5.4;20;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+a+03+12.aspx;
-07/12/2021;56;69560;0;1392;1041;114580;68075;114;9;20;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+12+a+07+12.aspx;
-10/12/2021;46;69606;0;1392;999;114785;68119;109;18;47;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+a+10+12.aspx;
-14/12/2021;68;69674;0;1392;935;115078;68169;134;14;63;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+a+14+12.aspx;
-17/12/2021;60;69734;3;1395;830;115183;68198;162;0;60;[78,88,100];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+12+2021+a+17+12+2021.aspx;
-21/12/2021;76;69810;0;1395;741;115304;68245;191;10;60;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+a+21+12.aspx;
-23/12/2021;41;69851;1;1396;741;115390;68277;199;10;57;[];[45];http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+a+23+12.aspx;
-28/12/2021;120;69971;1;1397;813;115543;68370;225;35;61;[];[76];http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+12+a+28+12.aspx;
-30/12/2021;64;70035;0;1397;664;115648;68434;225;15;67;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+12+a+30+12.aspx;
-04/01/2022;397;70432;1;1398;460;116404;68561;494;14;80;[58];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+31+12+2021+a+04+01+2022.aspx;
-06/01/2022;351;70783;0;1398;348;116786;68623;783;50;76;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+a+06+01.aspx;
-07/01/2022;216;70999;0;1398;346;116946;68652;970;53;90;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+01+2022.aspx;
-08/01/2022;281;71280;1;1399;339;117052;68652;1249;50;100;[];[80];http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+01+2022.aspx;
-09/01/2022;347;71627;1;1400;339;117301;68710;1338;50;100;[];[73];http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+01+2022.aspx;
+data	casos_novos	casos	obitos_novos	obitos	suspeitos	descartados	recuperados	em_tratamento	ocupacao_uti_%	ocupacao_enfermaria_%	obitos_homem	obitos_mulher	fonte	observacoes
+24/03/2020	1	1	0	0							[]	[]		Dados coletados via plantão da prefeitura no site e Instagram da Prefeitura (as vezes nao tinha um dia em um mas tinha no outro), e por fim, se não tinha em nenhum, verificava no site G1 piracicaba e região, verificando as noticias de cada dia
+25/03/2020	1	2	0	0							[]	[]		
+26/03/2020	1	3	0	0							[]	[]		
+27/03/2020	2	5	0	0							[]	[]		
+28/03/2020	0	5	0	0	102	41					[]	[]		
+29/03/2020	1	6	0	0	102	41					[]	[]		
+30/03/2020	3	9	0	0	110	45					[]	[]		
+31/03/2020	1	10	0	0	115	52					[]	[]		
+01/04/2020	1	11	0	0	124	52					[]	[]		
+02/04/2020	1	12	0	0	130	63					[]	[]		
+03/04/2020	3	15	0	0	127	65					[]	[]		
+04/04/2020	0	15	0	0	127	65					[]	[]		
+05/04/2020	1	16	0	0	127	65					[]	[]		
+06/04/2020	1	17	0	0	119	91					[]	[]		
+07/04/2020	2	19	0	0	127	94					[]	[]		
+08/04/2020	3	22	0	0	127	94					[]	[]		
+09/04/2020	2	24	0	0	131	155					[]	[]		
+10/04/2020	1	25	1	1	142	106					[]	[]		
+11/04/2020	0	25	0	1	142	106					[]	[]		
+12/04/2020	0	25	0	1	142	106					[]	[]		
+13/04/2020	0	25	0	1	141	115					[]	[]		
+14/04/2020	4	29	0	1	153	131					[]	[]		
+15/04/2020	0	29	0	1	163	132					[]	[]		
+16/04/2020	1	30	1	2	160	150					[]	[]		
+17/04/2020	0	30	0	2	157	150					[]	[]		
+18/04/2020	4	34	0	2	161	150					[]	[]		
+19/04/2020	0	34	0	2	166	173					[]	[]		
+20/04/2020	4	38	0	2	152	173					[]	[]		
+21/04/2020	2	40	0	2	175	173					[]	[]		
+22/04/2020	10	50	0	2	171	201	31				[]	[]		
+23/04/2020	12	62	1	3	176	223					[]	[]		
+24/04/2020	8	70	1	4	180	227	39				[]	[]		
+25/04/2020	10	80	1	5	181	227					[]	[]		
+26/04/2020	3	83	0	5	164	227					[]	[]		
+27/04/2020	7	90	4	9	177	257	44				[]	[]		
+28/04/2020	7	97	1	10	176	287	44				[]	[]		
+29/04/2020	17	114	0	10	191	289	45				[]	[]		
+30/04/2020	3	117	0	10	195	289					[]	[]		
+01/05/2020	15	132	1	11	195	289					[]	[]		
+02/05/2020	3	135	0	11	202	337	61	63			[]	[]		
+03/05/2020	5	140	0	11	176	377	61	68			[]	[]		
+04/05/2020	12	152	2	13	169	386	63	76			[]	[]		
+05/05/2020	11	163	0	13	146	426	65	85			[]	[]		
+06/05/2020	18	181	0	13	147	457	67	101			[]	[]		
+07/05/2020	0	181	1	14	160	486	73	94			[]	[]		
+08/05/2020	14	195	0	14	160	486					[]	[]		
+09/05/2020	7	202	0	14	156	526	91	96			[]	[]		
+10/05/2020	12	214	0	14	157	526					[]	[]		
+11/05/2020	2	216	1	15	160	564	98	103			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+covid+19.aspx	
+12/05/2020	5	221	1	16	148	589	117	88			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+covid+19.aspx	
+13/05/2020	22	243	1	17	136	690	128	98			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+covid+19.aspx	
+14/05/2020	15	258	0	17	133	710	147	94			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+covid+19.aspx	
+15/05/2020	6	264	0	17	124		156				[]	[]	https://g1.globo.com/sp/piracicaba-regiao/noticia/2020/05/15/casos-de-novo-coronavirus-na-regiao-de-piracicaba-em-15-de-maio.ghtml	
+16/05/2020	9	273	0	17	99		166				[]	[]	https://g1.globo.com/sp/piracicaba-regiao/noticia/2020/05/16/casos-de-coronavirus-na-regiao-de-piracicaba-em-16-de-maio.ghtml	
+17/05/2020	0	273	0	17	99						[]	[]	https://g1.globo.com/sp/piracicaba-regiao/noticia/2020/05/17/casos-de-coronavirus-na-regiao-de-piracicaba-em-17-de-maio.ghtml	
+18/05/2020	24	297	0	17	119	815	182	98			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+covid+19.aspx	
+19/05/2020	27	324	2	19	89	841	183	122			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+covid+19.aspx	
+20/05/2020	11	335	0	19	132	855	190	126			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+covid+19.aspx	
+21/05/2020	19	354	1	20	117	870	196	138			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+covid+19.aspx	
+22/05/2020	38	392	2	22	111	895	207	163			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+covid+19.aspx	
+23/05/2020	46	438	0	22	81	929	242	174			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+23+de+maio+de+2020+16h.aspx	
+24/05/2020	30	468	0	22	82	938	246	200			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+24+de+maio+de+2020+16h.aspx	
+25/05/2020	11	479	0	22	82	961	261	196			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+25+de+maio+de+2020+16h.aspx	
+26/05/2020	12	491	1	23	76	964	274	195			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+26+de+maio+de+2020+16h.aspx	
+27/05/2020	7	498	1	24	100	997	279	195			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+27+de+maio+de+2020+16h.aspx	
+28/05/2020	14	512	1	25	105	1009	308	180			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+28+de+maio+de+2020+16h.aspx	
+29/05/2020	21	534	1	26	115	1051	317	191			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+29+de+maio+de+2020+16h.aspx	Ontem tinha 512, com mais 21 casos, 533, porém na página diz 534
+30/05/2020	15	549	3	29	158	1534	337	196			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+30+de+maio+de+2020.aspx	E agora? Com a soma errada de ontem, diz 549 no site, mas deveria ser 548
+31/05/2020	15	564	0	29	181	1534	333	202			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+31+de+maio+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+01/06/2020	76	640	0	29	230	1536	363	248			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+01+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+02/06/2020	25	665	5	34	280	1722	397	234			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+02+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+03/06/2020	32	697	4	38	283	1759	421	238			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+03+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+04/06/2020	14	711	1	39	261	1772	473	199			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+04+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+05/06/2020	67	778	1	40	300	1840	499	240			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+05+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+06/06/2020	113	891	0	40	281	1863	544	307			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+06+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+07/06/2020	39	930	0	40	270	1876	558	332			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+07+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+08/06/2020	114	1044	0	40	331	1880	576	428			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+08+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+09/06/2020	30	1074	3	43	346	1881	594	437			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+09+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+10/06/2020	29	1103	0	43	286	2007	622	438			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+10+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+11/06/2020	86	1189	3	46	304	2043	651	492			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+11+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+12/06/2020	60	1249	2	48	370	2057	675	528			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+12+de+junho+de+2020+16h+66394.aspx	E agora, continua contando um a mais no site…
+13/06/2020	45	1294	0	48	376	2061	698	548			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+13+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+14/06/2020	19	1313	3	51	377	2070	743	519			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+14+de+junho+de+2020+16h.aspx	E agora, no site está 1315, no dia anterior tinha 1294, somou 19 e deu 1315, era pra dar 1313!!
+15/06/2020	64	1377	2	53	373	2078	783	541			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+15+de+junho+de+2020+16h.aspx	De ontem foi corrigido, voltamos para 1 de diferença, 1376 aqui, 1377 lá
+16/06/2020	64	1441	5	58	658	2115	901	482			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+16+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+17/06/2020	44	1485	5	63	714	2148	916	506			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+17+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+18/06/2020	48	1533	3	66	800	2792	946	521			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+17+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+19/06/2020	72	1605	1	67	826	2944	1056	482			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+19+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+20/06/2020	72	1677	3	70	780	3077	1132	475			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+20+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+21/06/2020	99	1776	3	73	733	3117	1160	543			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+21+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+22/06/2020	111	1887	3	76	737	3218	1193	618			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+22+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+23/06/2020	47	1934	6	80	718	3475	1290	564			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+23+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…: nota da saúde: IMPORTANTE: Recebemos hoje (23) a informação da Vigilância Epidemiológica de que, após a conclusão da investigação sobre dois óbitos que foram contabilizados como sendo de Piracicaba, os casos são de outras cidades: um de Rio das Pedras e outro de São Pedro. Portanto, o total de óbitos é 80 pessoas. Isso pode ter ocorrido por divergências nas informações dos endereços fornecidos por familiares.: Portanto, nessa célula, vou subtrair 2 casos
+24/06/2020	90	2024	0	80	678	3517	1341	602			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+24+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+25/06/2020	50	2074	2	82	821	3558	1381	611			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+25+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+26/06/2020	130	2204	2	84	826	3564	1501	619			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+26+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+27/06/2020	151	2355	4	88	826	3782	1549	718			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+27+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+28/06/2020	180	2535	1	89	803	4027	1586	860			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+28+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+29/06/2020	182	2717	3	92	870	4144	1739	886			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+29+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+30/06/2020	141	2858	1	93	816	4220	1761	1004			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+30+de+junho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+01/07/2020	124	2982	3	96	885	4244	1834	1052			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+01+de+julho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+02/07/2020	136	3118	3	99	992	4447	1892	1127			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+02+de+julho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+03/07/2020	127	3245	2	101	1002	4481	1943	1201			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+03+de+julho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+04/07/2020	144	3389	0	101	976	4560	2091	1197			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+04+de+julho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+05/07/2020	143	3532	0	101	959	4616	2120	1311			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+05+de+julho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+06/07/2020	124	3656	2	103	938	4761	2327	1227			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+06+de+julho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+07/07/2020	130	3786	3	106	930	4816	2376	1304			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+07+de+julho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+08/07/2020	135	3921	5	111	906	4876	2529	1281			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+08+de+julho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+09/07/2020	138	4059	3	114	909	4978	2757	1188			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+09+de+julho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+10/07/2020	171	4230	6	120	970	5022	2866	1244			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+10+de+julho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+11/07/2020	155	4385	3	123	927	5152	2935	1327			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+11+de+julho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+12/07/2020	162	4547	0	123	906	5192	3161	1263			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+12+de+julho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+13/07/2020	186	4733	7	130	952	5482	3267	1336			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+13+de+julho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+14/07/2020	152	4885	6	136	977	5752	3297	1452			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+14+de+julho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+15/07/2020	197	5082	6	142	937	5956	3431	1509			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+15+de+julho+de+2020+16h.aspx	E agora, continua contando um a mais no site…
+16/07/2020	195	5277	6	148	906	6154	3549	1580			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+16+de+julho+de+2020+16h.aspx	Desisto de anotar essa diferença, sempre vai ter creio eu, vou colocar um +1 lá no primeiro caso de diferença
+17/07/2020	131	5408	2	150	993	6275	3559	1699			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+17+de+julho+de+2020+16h.aspx	
+18/07/2020	217	5625	5	155	913	6538	3663	1807			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+18+de+julho+de+2020+16h.aspx	
+19/07/2020	198	5823	4	159	853	6709	3830	1834			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+19+de+julho+de+2020+16h.aspx	
+20/07/2020	143	5966	1	160	861	6878	4131	1675			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+20+de+julho+de+2020+16h.aspx	Putz, de novo lá soma ontem com 143 e dá 1 a mais, era pra ser 5966
+21/07/2020	136	6102	4	164	980	7025	4579	1359			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+21+de+julho+de+2020+16h.aspx	Corrigiram de ontem, tirando o +1 de cima
+22/07/2020	153	6255	0	164	933	7265	4627	1464			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+22+de+julho+de+2020+16h.aspx	
+23/07/2020	182	6437	4	168	936	7417	4701	1568			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+23+de+julho+de+2020+16h.aspx	
+24/07/2020	161	6598	4	172	974	7625	4886	1540			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+24+de+julho+de+2020+16h.aspx	
+25/07/2020	170	6768	4	176	869	7177	5139	1453			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+25+de+julho+de+2020+16h.aspx	
+26/07/2020	180	6948	1	177	837	7885	5372	1399			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+26+de+julho+de+2020+16h.aspx	
+27/07/2020	193	7141	2	179	904	8137	5534	1428			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+27+de+julho+de+2020+16h.aspx	
+28/07/2020	181	7322	7	186	1081	8357	5567	1569			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+28+de+julho+de+2020+16h.aspx	
+29/07/2020	198	7520	5	191	1013	8596	5732	1597			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+29+de+julho+de+2020+16h.aspx	
+30/07/2020	154	7674	6	197	1071	8633	5884	1593			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+30+de+julho+de+2020+16h.aspx	
+31/07/2020	160	7834	4	201	1041	8838	6069	1564			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+31+de+julho+de+2020+16h.aspx	
+01/08/2020	172	8006	1	202	984	8939	6159	1645			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+1+de+agosto+de+2020+16h.aspx	
+02/08/2020	133	8133	1	203	871	8958	6339	1591			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+02+de+agosto+de+2020+16h.aspx	Putz, de novo lá soma ontem com 133 e dá 6 a MENOS, era pra ser 8139
+03/08/2020	117	8250	5	208	933	9030	6583	1459			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+03+de+agosto+de+2020+16h.aspx	
+04/08/2020	152	8402	4	212	993	9194	6668	1522			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+04+de+agosto+de+2020+16h.aspx	
+05/08/2020	133	8535	3	215	1064	9357	7026	1294			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+05+de+agosto+de+2020+16h.aspx	
+06/08/2020	151	8686	3	218	1101	9465	7087	1381			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+06+de+agosto+de+2020+16h.aspx	
+07/08/2020	150	8836	4	222	1126	9772	7343	1271			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+07+de+agosto+de+2020+16h.aspx	
+08/08/2020	136	8972	5	227	1046	10023	7433	1312			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+08+de+agosto+de+2020+16h.aspx	
+09/08/2020	138	9110	2	229	937	10184	7584	1297			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+09+de+agosto+de+2020+16h.aspx	
+10/08/2020	125	9235	5	234	907	10469	7715	1286			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+10+de+agosto+de+2020+16h.aspx	
+11/08/2020	100	9335	1	235	1029	10731	7826	1274			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+11+de+agosto+de+2020+16h.aspx	
+12/08/2020	139	9474	4	239	1146	10916	7941	1294			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+12+de+agosto+de+2020+16h.aspx	
+13/08/2020	137	9611	4	243	1038	11110	7962	1406			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+13+de+agosto+de+2020+16h.aspx	
+14/08/2020	181	9792	1	244	958	11497	7998	1550			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+14+de+agosto+de+2020+16h.aspx	
+15/08/2020	106	9898	2	246	895	11709	8146	1506			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+15+de+agosto+de+2020+16h.aspx	
+16/08/2020	123	10021	0	246	873	11827	8442	1333			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+16+de+agosto+de+2020+16h.aspx	
+17/08/2020	122	10143	4	250	951	12063	8593	1300			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+17+de+agosto+de+2020+16h.aspx	
+18/08/2020	115	10258	4	254	923	12480	8612	1392			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+18+de+agosto+de+2020+16h.aspx	
+19/08/2020	131	10389	1	255	980	12700	8682	1452			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+19+de+agosto+de+2020+16h.aspx	
+20/08/2020	118	10507	3	258	857	12965	8773	1476			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+20+de+agosto+de+2020+16h.aspx	
+21/08/2020	105	10612	4	262	902	13162	8890	1460			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+21+de+agosto+de+2020+16h.aspx	
+22/08/2020	79	10691	2	264	882	13224	8899	1538			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+22+de+agosto+de+2020+16h.aspx	
+23/08/2020	99	10790	0	264	882	13261	8909	1617			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+23+de+agosto+de+2020+16h.aspx	
+24/08/2020	97	10887	5	269	958	13459	9362	1256			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+24+de+agosto+de+2020+16h.aspx	
+25/08/2020	136	11023	3	272	965	13720	9466	1285			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+25+de+agosto+de+2020+16h.aspx	
+26/08/2020	148	11171	4	276	1013	13971	9490	1405			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+26+de+agosto+de+2020+16h.aspx	
+27/08/2020	137	11308	5	281	977	14390	9674	1353			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+27+de+agosto+de+2020+16h.aspx	
+28/08/2020	130	11438	2	283	1023	14662	9825	1330			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+28+de+agosto+de+2020+16h.aspx	
+29/08/2020	126	11564	2	285	1028	14956	10195	1084			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+29+de+agosto+de+2020+16h.aspx	
+30/08/2020	100	11664	0	285	918	15225	10307	1072			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+30+de+agosto+de+2020+16h.aspx	
+31/08/2020	66	11730	4	289	927	15466	10354	1087			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+31+de+agosto+de+2020+16h.aspx	
+01/09/2020	58	11788	2	291	1040	15629	10356	1141			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+01+de+setembro+de+2020+16h.aspx	
+02/09/2020	140	11928	3	294	843	15969	10358	1276			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+02+de+setembro+de+2020+16h.aspx	
+03/09/2020	138	12066	1	295	866	16240	10609	1162			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+03+de+setembro+de+2020+16h.aspx	
+04/09/2020	145	12211	2	297	935	16559	10656	1258			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+04+de+setembro+de+2020+16h.aspx	
+05/09/2020	144	12355	0	297	931	16947	10684	1374			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+05+de+setembro+de+2020+16h.aspx	
+06/09/2020	149	12504	0	297	771	17412	10936	1271			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+06+de+setembro+de+2020+16h.aspx	
+07/09/2020	155	12659	3	300	643	17685	11141	1218			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+07+de+setembro+de+2020+16h.aspx	
+08/09/2020	137	12796	5	305	802	17931	11228	1263			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+08+de+setembro+de+2020+16h.aspx	
+09/09/2020	141	12937	2	307	1016	18206	11255	1375			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+09+de+setembro+de+2020+16h.aspx	
+10/09/2020	125	13062	3	310	1026	18609	11379	1373			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+10+de+setembro+de+2020+16h.aspx	
+11/09/2020	134	13196	1	311	964	19112	11402	1483			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+11+de+setembro+de+2020+16h.aspx	
+12/09/2020	98	13294	2	313	1024	19137	11545	1436			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+12+de+setembro+de+2020+16h.aspx	Descartados: 19.2137 ???
+13/09/2020	87	13381	0	313	1022	19214	11607	1461			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+13+de+setembro+de+2020+16h.aspx	
+14/09/2020	53	13434	4	317	1164	19437	11718	1399			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+14+de+setembro+de+2020+16h.aspx	
+15/09/2020	72	13506	4	321	1165	19711	12032	1153			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+15+de+setembro+de+2020+16h.aspx	
+16/09/2020	107	13613	0	321	1180	20018	12163	1129			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+16+de+setembro+de+2020+16h.aspx	
+17/09/2020	116	13729	2	323	1075	20398	12303	1103			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+17+de+setembro+de+2020+16h.aspx	
+18/09/2020	126	13855	2	325	940	20893	12361	1169			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+18+de+setembro+de+2020+16h.aspx	
+19/09/2020	121	13976	1	326	660	21352	12520	1130			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+19+de+setembro+de+2020+16h.aspx	
+20/09/2020	43	14019	0	326	826	21380	12637	1056			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+20+de+setembro+de+2020+16h.aspx	
+21/09/2020	83	14102	3	329	829	21654	12737	1036			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+21+de+setembro+de+2020+as+16h.aspx	
+22/09/2020	62	14164	2	331	690	22244	12954	879			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+22+de+setembro+de+2020+16h.aspx	
+23/09/2020	105	14269	1	332	674	22600	12989	948			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+23+de+setembro+de+2020+16h.aspx	
+24/09/2020	105	14374	3	335	712	22881	13090	949			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+24+de+setembro+de+2020+16h.aspx	
+25/09/2020	107	14481	3	338	675	23269	13256	887			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+25+de+setembro+de+2020+16h.aspx	
+26/09/2020	98	14579	0	338	596	23619	13341	900			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+26+de+setembro+de+2020+16h.aspx	
+27/09/2020	121	14700	1	339	604	23772	13462	899			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+27+de+setembro+de+2020+16h.aspx	
+28/09/2020	85	14785	2	341	690	24118	13513	931			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+28+de+setembro+de+2020+16h.aspx	
+29/09/2020	111	14896	1	342	778	24720	13667	887			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+29+de+setembro+de+2020+16h.aspx	
+30/09/2020	111	15007	0	342	750	25286	13683	982			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+30+de+setembro+de+2020+16h.aspx	
+01/10/2020	104	15111	2	344	836	25779	13800	967			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+01+de+outubro+de+2020+16h.aspx	
+02/10/2020	86	15197	2	346	903	26254	13833	1018			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+02+de+outubro+de+2020+16h.aspx	
+03/10/2020	110	15307	2	348	861	26732	13950	1009			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+03+de+outubro+de+2020+16h.aspx	
+04/10/2020	105	15412	1	349	653	26968	14043	1020			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+04+de+outubro+de+2020+16h.aspx	
+05/10/2020	78	15490	1	350	730	27454	14148	992			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+05+de+outubro+de+2020+16h.aspx	
+06/10/2020	64	15554	1	351	743	27798	14248	955			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+06+de+outubro+de+2020+16h.aspx	
+07/10/2020	61	15615	1	352	793	28219	14409	854			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+07+de+outubro+de+2020+16h.aspx	
+08/10/2020	81	15696	1	353	797	28717	14512	831			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+08+de+outubro+de+2020+16h.aspx	
+09/10/2020	104	15800	2	355	819	29227	14631	814			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+09+de+outubro+de+2020+16h.aspx	
+10/10/2020	80	15880	0	355	879	29602	14711	814			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+10+de+outubro+de+2020+16h.aspx	
+11/10/2020	49	15929	0	355	838	30106	14832	742			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+11+de+outubro+de+2020+16h.aspx	
+12/10/2020	53	15982	2	357	813	30621	14936	814			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+12+de+outubro+de+2020+16h.aspx	
+13/10/2020	31	16013	0	357	527	31315	15074	582			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+13+de+outubro+de+2020+16h.aspx	
+14/10/2020	66	16079	1	358	550	31816	15104	617			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+14+de+outubro+de+2020+16h.aspx	
+15/10/2020	49	16128	1	359	629	31937	15217	552			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+15+de+outubro+de+2020+16h.aspx	
+16/10/2020	39	16167	0	359	694	32034	15276	532			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+16+de+outubro+de+2010+16h.aspx	
+17/10/2020	39	16206	2	361	560	32241	15334	511			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+17+de+outubro+de+2020+16h.aspx	
+18/10/2020	92	16298	0	361	551	32384	15397	540			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+18+de+outubro+de+2020+16h.aspx	
+19/10/2020	83	16381	0	361	692	32535	15478	542			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+19+de+outubro+de+2020+16h.aspx	
+20/10/2020	100	16481	1	362	700	32712	15532	587			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+20+de+outubro+de+2020+16h.aspx	
+21/10/2020	88	16569	2	364	787	33036	15556	649			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+21+de+outubro+de+2020+16h.aspx	
+22/10/2020	75	16644	0	364	866	33233	15597	683			[]	[]	http://www.piracicaba.sp.gov.br/comunicado+22+de+outubro+de+2020+16h.aspx	
+23/10/2020	61	16705	0	364	913	33484	15624	717			[]	[]	http://www.piracicaba.sp.gov.br/coronavirus+atualizacao+de+casos+em+23+10.aspx	
+24/10/2020	68	16773	0	364	833	33551	15677	732			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+10+20.aspx	
+25/10/2020	68	16841	0	364	827	33712	15765	712			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+10+20.aspx	
+26/10/2020	70	16911	3	367	792	34050	15794	750			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+10+20.aspx	
+27/10/2020	34	16945	0	367	840	34342	15813	765			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+10+20.aspx	
+28/10/2020	21	16966	0	367	945	34592	15911	688			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+10+20.aspx	
+29/10/2020	33	16999	0	367	886	34949	16032	600			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+10+20.aspx	
+30/10/2020	41	17040	0	367	910	35196	16095	578			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+10+20.aspx	
+31/10/2020	41	17081	0	367	771	35469	16184	530			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+31+10+20.aspx	
+01/11/2020	39	17120	0	367	745	35681	16186	567			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+11+20.aspx	
+02/11/2020	12	17132	0	367	842	35932	16328	437			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+11+20.aspx	
+03/11/2020	35	17167	3	370	808	36265	16378	419			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+11+20.aspx	
+04/11/2020	41	17208	0	370	817	36546	16462	376			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+11+20.aspx	
+05/11/2020	31	17239	0	370	838	36749	16515	354			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+11+10.aspx	
+06/11/2020	51	17290	0	370	941	37031	16558	362			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+11+20.aspx	
+07/11/2020	53	17343	0	370	719	37200	16589	384			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+11+20.aspx	
+08/11/2020	48	17391	0	370	871	37385	16623	398			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+11+20.aspx	
+09/11/2020	58	17449	1	371	799	37628	16648	430			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+11+20.aspx	
+10/11/2020	61	17510	0	371	715	38008	16664	475			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+11+20.aspx	
+11/11/2020	56	17566	1	372	674	38153	16692	502			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+11+20.aspx	
+12/11/2020	56	17622	1	373	801	38274	16704	545			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+11+20.aspx	
+13/11/2020	49	17671	0	373	843	38423	16758	540			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+11+20.aspx	
+14/11/2020	38	17709	0	373	1001	38615	16779	557			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+11+20.aspx	
+15/11/2020	20	17729	0	373	855	38743	16779	557			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+11+20.aspx	
+16/11/2020	45	17774	0	373	816	38876	16911	490			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+11+20.aspx	
+17/11/2020	54	17828	1	374	971	39072	16960	494			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+11+20.aspx	
+18/11/2020	48	17876	1	375	946	39153	16976	525			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+11+20.aspx	
+19/11/2020	64	17940	0	375	992	39433	17007	558			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+11+20.aspx	
+20/11/2020	54	17994	0	375	1058	39622	17065	554			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+11+20.aspx	
+21/11/2020	39	18033	0	375	1040	39661	17106	552			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+11+20.aspx	
+22/11/2020	53	18086	0	375	933	39812	17208	503			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+11+20.aspx	
+23/11/2020	55	18141	0	375	1115	40074	17292	474			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+11+20.aspx	
+24/11/2020	81	18222	0	375	1053	40200	17327	520			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+11+20.aspx	
+25/11/2020	45	18267	0	375	1161	40339	17344	548			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+11+20.aspx	
+26/11/2020	65	18332	0	375	1081	40559	17364	593			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+11+20.aspx	
+27/11/2020	67	18399	1	376	1160	40787	17438	585			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+11+20.aspx	
+28/11/2020	78	18477	0	376	1285	41104	17476	625			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+11+20.aspx	
+29/11/2020	74	18551	0	376	1264	41346	17503	672			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+11+20.aspx	
+30/11/2020	100	18651	2	378	1380	41705	17586	687			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+11+20.aspx	
+01/12/2020	130	18781	1	379	1427	42119	17599	803			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+12+20.aspx	
+02/12/2020	117	18898	1	380	1316	42474	17651	867			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+12+20.aspx	
+03/12/2020	127	19025	3	383	1180	42704	17707	935			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+12+20.aspx	
+04/12/2020	101	19126	1	384	1197	43092	17787	955			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+12+20.aspx	
+05/12/2020	89	19215	1	385	1166	43258	17831	999			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+12+20.aspx	
+06/12/2020	33	19248	1	386	1136	43521	17937	926			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+12+20.aspx	
+07/12/2020	102	19350	3	389	1072	43792	17943	1018			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+12+20.aspx	
+08/12/2020	104	19454	0	389	1120	43847	18053	1012			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+12+20.aspx	
+09/12/2020	110	19564	2	391	1106	44198	18124	1049			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+12+20.aspx	
+10/12/2020	105	19669	2	393	1261	44490	18175	1101			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+12+20.aspx	
+11/12/2020	121	19790	2	395	1155	44833	18317	1078			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+12+20.aspx	
+12/12/2020	130	19920	1	396	1172	45256	18512	1012			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+12+20.aspx	
+13/12/2020	130	20050	0	396	1079	45444	18511	1143			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+12+20.aspx	
+14/12/2020	123	20173	3	399	1153	45496	18524	1250			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+12+20.aspx	
+15/12/2020	138	20311	1	400	1234	45769	18648	1263			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+12+20.aspx	
+16/12/2020	118	20429	2	402	1237	45946	18791	1236			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+12+20.aspx	
+17/12/2020	68	20497	0	402	1351	46053	18795	1300			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+12+20.aspx	
+18/12/2020	105	20602	1	403	1461	46344	18997	1202			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+12+20.aspx	
+19/12/2020	100	20702	2	405	1721	46598	19083	1214			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+12+20.aspx	
+20/12/2020	117	20819	0	405	1579	46861	19223	1191			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+12+20.aspx	
+21/12/2020	139	20958	2	407	1523	47093	19297	1254			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+12+20.aspx	
+22/12/2020	142	21100	2	409	1339	47666	19443	1248			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+12+20.aspx	
+23/12/2020	148	21248	0	409	1334	48010	19471	1368			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+12+20.aspx	
+24/12/2020	111	21359	0	409	1309	48073	19691	1259			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+12+20.aspx	
+25/12/2020	101	21460	3	412	1309	48360	19969	1079			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+12+20.aspx	
+26/12/2020	128	21588	0	412	1301	48536	19972	1301			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+12+20.aspx	
+27/12/2020	127	21715	0	412	1265	48549	20018	1285			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+12+20.aspx	
+28/12/2020	138	21853	1	413	1420	48931	20226	1214			[84]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+12+20.aspx	
+29/12/2020	154	22007	1	414	1373	49224	20393	1200			[]	[62]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+12+20.aspx	
+30/12/2020	122	22129	1	415	1624	49556	20448	1266			[90]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+12+20.aspx	
+31/12/2020	138	22267	0	415	1224	49919	20588	1264			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+31+12+2020.aspx	
+01/01/2021	149	22416	0	415	1111	50209	20599	1402			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+01+2021.aspx	
+02/01/2021	159	22575	0	415	1110	50485	20747	1413			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+01+2021.aspx	
+03/01/2021	153	22728	1	416	1048	50477	20855	1457			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+01+2021.aspx	
+04/01/2021	179	22907	1	417	1442	50945	20976	1514			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+01+2021.aspx	
+05/01/2021	210	23117	2	419	1369	51231	21166	1532			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+01+2021+67946.aspx	
+06/01/2021	229	23346	2	421	1615	51721	21199	1726			[88]	[92]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+01+2021.aspx	
+07/01/2021	276	23622	0	421	1911	51973	21429	1772			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+01+2021.aspx	
+08/01/2021	257	23879	1	422	1787	52449	21545	1912			[]	[74]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+01+2021.aspx	
+09/01/2021	293	24172	1	423	1502	52852	21644	2085			[]	[94]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+01+2021.aspx	
+10/01/2021	282	24454	0	423	1705	52917	21801	2230			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+01+2021.aspx	
+11/01/2021	284	24738	2	425	1801	53093	22109	2204			[70]	[72]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+01+2021.aspx	
+12/01/2021	314	25052	2	427	1939	53381	22253	2373			[]	[70,89]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+01+2021.aspx	
+13/01/2021	294	25346	2	429	2063	53969	22288	2629			[71,76]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+01+2021.aspx	
+14/01/2021	342	25688	2	431	2080	54068	22398	2859			[]	[50,57]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+01+2021.aspx	
+15/01/2021	362	26050	1	432	2308	54602	22665	2953			[]	[88]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+01+2021.aspx	
+16/01/2021	323	26373	2	434	2024	54652	22912	3029			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+01+2021.aspx	Óbitos informados no dia 18/01, em http://www.piracicaba.sp.gov.br/saude+alerta+para+aumento+de+casos+de+covid+19.aspx
+17/01/2021	362	26735	1	435	1887	54737	23432	2871			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+01+2021.aspx	Óbitos informados no dia 18/01, em http://www.piracicaba.sp.gov.br/saude+alerta+para+aumento+de+casos+de+covid+19.aspx
+18/01/2021	342	27077	5	440	2068	55076	23764	2873			[31,0,0,0,0,83]	[83,93]	http://www.piracicaba.sp.gov.br/saude+alerta+para+aumento+de+casos+de+covid+19.aspx	
+19/01/2021	347	27424	4	444	2137	55393	24101	2879			[]	[74,77,79,85]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+01+2021.aspx	
+20/01/2021	310	27734	2	446	2368	55865	24181	3107			[48]	[85]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+01+2021.aspx	
+21/01/2021	323	28057	1	447	2161	55917	24415	3196			[]	[89]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+01+2021.aspx	
+22/01/2021	340	28397	1	448	2030	56238	24664	3285			[74]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+01+2021.aspx	
+23/01/2021	346	28743	4	452	1708	56396	24962	3329			[78,90]	[51,87]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+01+2021.aspx	
+24/01/2021	356	29099	3	455	2217	57030	25310	3334			[68,65,48]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+01+2021.aspx	
+25/01/2021	340	29439	4	459	2146	57735	25551	3429			[77,81,86]	[92]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+01+2021.aspx	
+26/01/2021	320	29759	3	462	2742	58337	25888	3409			[59,59]	[85]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+01+2021.aspx	
+27/01/2021	241	30000	0	462	3004	58900	25995	3543			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+01+2021.aspx	
+28/01/2021	258	30258	2	464	3188	59344	26238	3556			[34,84]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+01+2021.aspx	
+29/01/2021	264	30522	1	465	3071	59731	26623	3071			[]	[86]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+01+2021.aspx	
+30/01/2021	252	30774	1	466	3143	60029	27367	2941			[]	[68]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+01+2021.aspx	
+31/01/2021	267	31041	5	471	3224	60189	27554	3016			[82]	[73,74,83,91]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+31+01+2021.aspx	
+01/02/2021	244	31285	5	476	3475	60647	27858	2951			[61,65]	[75,86,91]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+02+2021.aspx	
+02/02/2021	257	31542	1	477	3092	61084	28196	2869			[74]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+02+2021.aspx	
+03/02/2021	244	31786	2	479	3307	61569	28549	2758			[61]	[56]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+02+2021.aspx	
+04/02/2021	236	32022	2	481	3050	61750	29012	2529			[84]	[80]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+02+2021.aspx	
+05/02/2021	215	32237	3	484	3156	61871	29413	2340			[61,85]	[64]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+02+2021.aspx	
+06/02/2021	152	32389	0	484	2762	62121	29585	2320			[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+02+2021.aspx	
+07/02/2021	162	32551	2	486	2908	62493	29836	2229			[75]	[74]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+02+2021.aspx	
+08/02/2021	120	32671	3	489	2993	62791	30132	2050			[75]	[61,69]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+02+2021.aspx	
+09/02/2021	160	32831	3	492	2461	63171	30415	1924	66	39	[68]	[45,88]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+02+2021.aspx	
+10/02/2021	149	32980	3	495	2571	63439	30615	1870	57	43	[74,86]	[63]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+02+2021.aspx	
+11/02/2021	160	33140	3	498	2427	63690	30857	1785	67	37	[78]	[68,92]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+02+2021.aspx	
+12/02/2021	128	33268	2	500	2499	64061	31169	1599	65	37	[]	[56,61]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+02+2021.aspx	
+13/02/2021	129	33397	2	502	2199	64239	31334	1561	65	37	[]	[68,82]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+02+2021.aspx	
+14/02/2021	144	33541	6	508	2151	64251	31364	1669	62	37	[54,70,83,84]	[83,85]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+02+2021.aspx	
+15/02/2021	124	33665	2	510	1957	64393	31364	1791	61	35	[67]	[84]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+02+2021.aspx	
+16/02/2021	134	33799	1	511	2113	64455	31454	1834	61	39	[]	[81]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+02+2021.aspx	
+17/02/2021	110	33909	1	512	1918	64541	31498	1899	64	39	[]	[75]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+02+2021.aspx	
+18/02/2021	112	34021	2	514	2016	64630	31608	1899	64	33	[]	[61,81]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+02+2021.aspx	
+19/02/2021	77	34098	1	515	2078	64737	31920	1663	61	29	[]	[59]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+02+2021.aspx	
+20/02/2021	56	34154	8	523	1816	64979	31959	1672	54	29	[55,58,63,70,80,82]	[55,78]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+02+2021.aspx	
+21/02/2021	104	34258	1	524	1887	65152	32099	1635	55	28	[]	[90]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+02+2021.aspx	
+22/02/2021	125	34383	2	526	1775	65732	32117	1740	50	30	[78,81]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+02+2021.aspx	
+23/02/2021	122	34505	3	529	1987	65507	32308	1668	61	29	[77,86]	[49]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+02+2021.aspx	
+24/02/2021	123	34628	0	529	1713	65670	32560	1539	60	33	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+02+2021.aspx	
+25/02/2021	119	34747	1	530	1768	65892	32760	1457	61	35	[84]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+02+2021.aspx	
+26/02/2021	118	34865	0	530	1403	66297	32954	1381	62	39	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+02+2021.aspx	
+27/02/2021	79	34944	2	532	1292	66367	33233	1178	59	41	[34]	[62,78]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+02+2021.aspx	Marcando 1 a mais
+28/02/2021	24	34968	7	539	1264	66382	33419	1009	58	41	[57,65,66,79]	[48,62,78]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+02+2021.aspx	Marcando 1 a mais
+01/03/2021	59	35027	2	541	1081	66507	33536	949	68	42	[57,70]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+03+2021+68274.aspx	Marcando 1 a mais
+02/03/2021	90	35117	4	545	1510	66970	33663	908	70	41	[67,71]	[63,73]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+03+2021.aspx	Marcando 1 a mais
+03/03/2021	130	35247	3	548	1479	67186	33742	957	76	42	[63]	[78]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+03+2021.aspx	
+04/03/2021	49	35296	4	552	1369	67263	34047	697	80	50	[66,86]	[68,86]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+03+2021.aspx	
+05/03/2021	124	35420	0	552	1376	67740	34097	771	89	50	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+03+2021+68332.aspx	
+06/03/2021	154	35574	0	552	1457	67992	34101	921	88	50	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+03+2021.aspx	
+07/03/2021	151	35725	2	554	1428	68189	34210	961	86	54	[41]	[69]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+03+2021.aspx	
+08/03/2021	105	35830	0	554	1363	68314	34329	947	90	52	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+03+2021.aspx	
+09/03/2021	138	35968	0	554	1302	68598	34467	947	81	52	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+03+2021.aspx	
+10/03/2021	142	36110	2	556	1343	68989	34511	1043	81	57	[76]	[93]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+03+2021.aspx	
+11/03/2021	152	36262	2	558	1486	69149	34513	1191	92	60	[78,79]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+03+2021.aspx	
+12/03/2021	143	36405	3	561	1489	69334	34640	1204	87	62	[62,88]	[62]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+03+2021.aspx	
+13/03/2021	151	36556	1	562	1428	69480	34648	1346	92	63	[]	[84]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+03+2021.aspx	
+14/03/2021	136	36692	2	564	1771	69660	34929	1199	78	62	[71,75]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+03+2021.aspx	
+15/03/2021	150	36842	4	568	1708	69847	35055	1219	85	68	[36]	[60,62,81]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+03+2021.aspx	
+16/03/2021	178	37020	4	572	1736	70119	35363	1085	87	61	[57,77,82]	[60,62,81]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+03+2021.aspx	
+17/03/2021	162	37182	9	581	1736	70191	35401	1200	81	60	[42,52,58,61,68,90]	[55,73,82]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+03+2021.aspx	
+18/03/2021	197	37379	0	581	1593	70204	35529	1269	89	63	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+03+2021+68420.aspx	
+19/03/2021	167	37546	1	582	1840	70597	35604	1360	94	67	[]	[85]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+03+2021.aspx	
+20/03/2021	182	37728	3	585	1812	70933	35604	1539	94	68	[79]	[47,76]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+03+2021.aspx	
+21/03/2021	186	37914	0	585	1430	71268	35808	1521	94	71	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+03+2021.aspx	
+22/03/2021	195	38109	2	587	1376	71502	36064	1458	97	76	[39]	[64]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+03+2021.aspx	
+23/03/2021	213	38322	6	593	1388	71750	36266	1463	98	76	[35,66,70]	[41,47,71]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+03+2021+68455.aspx	
+24/03/2021	206	38528	7	600	1591	71995	36571	1357	99	74	[66,68,71,75]	[77,82,87]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+03+2021+68464.aspx	
+25/03/2021	216	38744	4	604	1513	72334	36709	1431	100	80	[57,78,84]	[75]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+03+2021.aspx	
+26/03/2021	211	38955	3	607	1718	72674	36785	1563	102	71,2	[]	[68,81,86]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+03+2021.aspx	
+27/03/2021	177	39132	9	616	1656	72730	36872	1644	101	75	[55,58,61,79,96]	[61,64,70,72]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+03+2021.aspx	
+28/03/2021	168	39300	4	620	1605	72769	36921	1759	102	80	[56,70,77]	[55]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+03+2021.aspx	
+29/03/2021	101	39401	7	627	1574	72744	36921	1853	99	81	[39,59,61,64,68,73]	[73]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+03+2021.aspx	
+30/03/2021	193	39594	13	640	1548	73110	37274	1680	100	86	[41,42,52,57,62,71,73,77]	[38,57,69,85,87]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+03+2021.aspx	
+31/03/2021	221	39815	5	645	1625	73205	37371	1799	99	86	[74]	[42,79,80,104]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+31+03+2021.aspx	
+01/04/2021	224	40039	8	653	1513	73539	37519	1867	93	83	[54,71,73]	[60,66,68,84,87]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+04+2021.aspx	
+02/04/2021	258	40297	11	664	1441	73837	37541	2092	89	81	[74,81,81,84]	[53,63,65,65,67,92,95]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+04+2021.aspx	
+03/04/2021	262	40559	5	669	1422	74206	38118	1772	89	80	[59,76,84]	[42,72]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+04+2021.aspx	
+04/04/2021	266	40825	5	674	1193	74701	38327	1824	94	77	[60,92]	[66,78,81]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+04+2021.aspx	
+05/04/2021	275	41100	4	678	1149	74791	38497	1925	82	70	[47,73,82]	[81]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+04+2021.aspx	
+06/04/2021	292	41392	13	691	1136	74802	38603	2098	91	67	[11]	[2]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+04+2021.aspx	
+07/04/2021	296	41688	6	697	1209	75057	38607	2384	92	66	[6]	[1]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+04+2021.aspx	
+08/04/2021	258	41946	10	707	1337	75287	38930	2309	88	67	[57,60,66,70,72,74]	[48,81,81,89]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+04+2021.aspx	
+09/04/2021	248	42194	14	721	1184	75377	39265	2208	84	71	[47,52,56,57,66,69,71,74,79]	[27,67,68,77,83]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+04+2021.aspx	
+10/04/2021	175	42369	14	735	1292	75452	39431	2203	79	70	[48, 52,60,65,70,71,76,78]	[25,64, 65,68,71,96]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+04+2021+68556.aspx	
+11/04/2021	153	42522	5	740	1055	75679	39502	2280	83	72	[77,82]	[29,52,77]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+04+2021.aspx	
+12/04/2021	138	42660	6	746	1016	76022	39604	2310	81	70	[58,66,71,78]	[72,99]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+04+2021.aspx	
+13/04/2021	135	42795	8	754	1093	76277	40241	1800	78	67	[62,87]	[40,48,54,69,73,77]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+04+2021.aspx	
+14/04/2021	125	42920	6	760	1012	76295	40656	1504	78	57	[61,65,72,79]	[69,79]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+04+2021.aspx	
+15/04/2021	140	43060	4	764	1086	76707	40667	1629	81	56	[56,56,69]	[84]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+04+2021.aspx	
+16/04/2021	144	43204	8	772	1118	76894	40932	1500	81	58	[55,67,69,72,76]	[38,65,67]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+04+2021.aspx	
+17/04/2021	133	43337	2	774	1103	76988	41187	1376	81	58	[66]	[65]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+04+2021.aspx	
+18/04/2021	123	43460	4	778	1017	77074	41429	1235	78	59	[43,48,66,78]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+04+2021.aspx	
+19/04/2021	134	43594	6	784	806	77395	41689	1121	72	57	[31,69,72,74,84]	[31]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+04+2021.aspx	
+20/04/2021	134	43728	11	795	703	77623	41736	1197	77	55	[44,47,58,60,66,67,69,70,73]	[66,73]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+04+2021.aspx	
+21/04/2021	151	43879	9	804	688	77846	41859	1216	76	55	[36,42,73,73]	[54,56,67,68,70]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+04+2021.aspx	
+22/04/2021	145	44024	7	811	932	78028	42050	1163	71	54	[36,47,60]	[40,68,70,84]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+04+2021.aspx	
+23/04/2021	148	44172	3	814	725	78360	42051	1307	71	53	[]	[66,74,77]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+04+2021.aspx	
+24/04/2021	131	44303	6	820	723	78513	42111	1372	68	52	[54,54,56,63]	[59,73]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+04+2021.aspx	
+25/04/2021	120	44423	4	824	612	78670	42239	1360	69	53	[51,56]	[35,44]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+04+2021.aspx	
+26/04/2021	124	44547	5	829	664	78851	42649	1069	69	50	[51,69,88]	[56,57]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+04+2021.aspx	
+27/04/2021	107	44654	3	832	696	79107	42776	1046	70	53	[64,69]	[74]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+04+2021.aspx	
+28/04/2021	148	44802	12	844	621	79189	42903	1055	74	60	[46,47,60,63,66,77]	[62,63,69,74,76,85]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+04+2021.aspx	
+29/04/2021	144	44946	0	844	1042	79468	42903	1199	78	62	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+04+2021.aspx	
+30/04/2021	150	45096	4	848	1086	79642	42953	1295	77	68	[62,85]	[69,87]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+04+2021.aspx	
+01/05/2021	133	45229	2	850	1075	79744	42954	1425	76	67	[70]	[79]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+05+2021.aspx	
+02/05/2021	162	45391	1	851	875	80116	43187	1353	80	74	[]	[67]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+05+2021.aspx	
+03/05/2021	149	45540	5	856	869	80356	43315	1369	78	65	[21,46,68,70,78]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+05+2021.aspx	
+04/05/2021	156	45696	6	862	872	80544	43512	1322	82	66	[56]	[60,67,67,75,95]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+05+2021.aspx	
+05/05/2021	181	45877	3	865	1018	80676	43630	1382	81	66	[52]	[26,26,56]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+05+2021.aspx	
+06/05/2021	178	46055	4	869	822	81042	43700	1486	80	68	[63,68,81]	[77]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+05+2021.aspx	
+07/05/2021	182	46237	4	873	953	81251	43799	1565	82	66	[]	[40,72,76,78]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+05+2021+68745.aspx	
+08/05/2021	187	46424	7	880	1070	81454	43938	1606	82	70	[48,60,60,67]	[58,60,63]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+05+2021.aspx	
+09/05/2021	181	46605	1	881	1029	81484	44081	1643	84	72	[61]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+05+2021.aspx	
+10/05/2021	178	46783	4	885	755	81644	44230	1668	80	75	[65, 67, 73]	[37]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+05+2021.aspx	
+11/05/2021	187	46970	4	889	703	81909	44514	1567	82	72	[59]	[59,67,68]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+05+2021.aspx	
+12/05/2021	186	47156	3	892	711	82180	44824	1440	91	72	[55,58]	[61]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+05+2021.aspx	
+13/05/2021	188	47344	3	895	717	82393	45166	1283	90	77	[52,87]	[65]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+05+2021+68800.aspx	
+14/05/2021	223	47567	5	900	871	82558	45200	1467	89	75	[51,54,55]	[54,70]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+05+2021.aspx	
+15/05/2021	185	47752	4	904	865	82856	45480	1368	89	73	[48]	[58,61,83]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+05+2021.aspx	
+16/05/2021	184	47936	0	904	865	83032	45506	1526	90	76	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+05+2021.aspx	
+17/05/2021	191	48127	4	908	865	83097	45695	1524	91	80	[40,41,64,65]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+05+2021.aspx	
+18/05/2021	191	48318	2	910	867	83382	45867	1541	91	82	[]	[53,85]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+05+2021.aspx	
+19/05/2021	194	48512	5	915	862	83708	46050	1547	91	85	[57,59]	[67,73,77]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+05+2021.aspx	
+20/05/2021	199	48711	7	922	1008	83987	46231	1558	88	70	[51,52,62,62,76,81]	[85]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+05+2021.aspx	
+21/05/2021	199	48910	6	928	1004	84229	46250	1732	94	67	[36,47,55,60,67]	[85,72,72,69,61,60,60,51,47,44,41,40,39,38,38,37,37,37,30,30,29,29,27,26,25,24,23,22]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+05+2021.aspx	
+22/05/2021	208	49118	3	931	1125	84332	46512	1675	91	70	[95]	[68,86]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+05+2021.aspx	
+23/05/2021	214	49332	3	934	1125	84664	46782	1616	92	69	[]	[45,61,62]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+05+2021.aspx	
+24/05/2021	233	49565	3	937	886	84826	46962	1666	94	66	[91]	[69,83]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+05+2021.aspx	
+25/05/2021	217	49782	11	948	1002	84967	47144	1690	93	67	[57,64,66,72]	[59,62,64,66,74,80]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+05+2021.aspx	
+26/05/2021	216	49998	2	950	963	85175	47330	1718	93	74	[101]	[49]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+05+2021.aspx	
+27/05/2021	235	50233	6	956	936	85399	47493	1784	91	77	[49,82]	[57,65,77,82]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+05+2021.aspx	
+28/05/2021	230	50463	7	963	936	85510	47705	1795	90	75	[52,53,62,67,82]	[41,57]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+05+2021.aspx	
+29/05/2021	236	50699	10	973	808	85747	47811	1915	86	73	[59,66,69,69,72]	[51,61,64,65,92  ]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+05+2021.aspx	
+30/05/2021	229	50928	1	974	808	85974	47812	2142	89	75	[]	[60]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+05+2021.aspx	
+31/05/2021	261	51189	2	976	808	86097	48159	2054	89	70	[34]	[45]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+31+05+2021.aspx	
+01/06/2021	229	51418	8	984	520	86561	48365	2069	87	73	[59,66,69,69,72]	[48,59]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+06+2021.aspx	
+02/06/2021	255	51673	6	990	893	86788	48366	2317	80	71	[52,54,57]	[60,70,87]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+06+2021.aspx	
+03/06/2021	275	51948	6	996	950	87250	48592	2360	94	85	[54,61,62,64,64]	[71]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+06+2021.aspx	
+04/06/2021	282	52230	2	998	211	87625	48784	2448	89	86	[89]	[63]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+06+2021.aspx	
+05/06/2021	278	52508	8	1006	1143	87815	48996	2506	93	86	[28,51,59,62,65]	[50,61,93]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+06+2021.aspx	
+06/06/2021	282	52790	4	1010	1143	88025	49225	2555	92	84	[59,61]	[44,84]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+06+2021.aspx	
+07/06/2021	297	53087	4	1014	1080	88243	49450	2623	98	79	[45,51,67,73]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+06+2021.aspx	
+08/06/2021	280	53367	2	1016	1136	88430	49871	2480	98	79	[60]	[87]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+06+2021.aspx	
+09/06/2021	287	53654	7	1023	1113	88637	50168	2463	98	78	[59,63,72,80]	[51,51,85]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+06+2021.aspx	
+10/06/2021	295	53949	2	1025	1070	88937	50392	2532	98	74	[30,56]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+06+2021.aspx	
+11/06/2021	292	54241	6	1031	1001	89202	50761	2449	98	75	[48,60,65]	[56,67,76]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+06+2021.aspx	
+12/06/2021	276	54517	7	1038	1013	89973	50906	2573	96	80	[55,62,68]	[46,52,73,82]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+06+2021.aspx	
+13/06/2021	276	54793	4	1042	861	90003	51207	2544	95	77	[41,49, 59]	[60]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+06+2021.aspx	
+14/06/2021	295	55088	6	1048	1267	90159	51480	2560	92	70	[44,46,51,56]	[76,82]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+05+2021+69093.aspx	
+15/06/2021	295	55383	9	1057	1373	90217	51757	2569	95	90	[45,49,49,61,67,68]	[60,75,82]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+06+2021.aspx	
+16/06/2021	288	55671	11	1068	1751	90343	52048	2555	98	75	[49,59,60,68,82]	[45,49,49,67,75,82]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+06+2021.aspx	
+17/06/2021	238	55909	10	1078	1822	90752	52055	2776	101	72	[46,48,59,60,62,74,78,83]	[42,45]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+06+2021.aspx	
+18/06/2021	262	56171	6	1084	1679	90869	52606	2481	98	66	[34,68,70]	[49,74,96]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+06+2021.aspx	
+19/06/2021	257	56428	9	1093	1677	91096	52891	2444	98	65	[47,56,57,60,60,68]	[55,71,76]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+06+2021.aspx	
+20/06/2021	248	56676	5	1098	1677	91401	52998	2580	94	73	[56,62,66,80]	[48]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+06+2021.aspx	
+21/06/2021	255	56931	4	1102	1641	91507	53178	2651	92	63	[45]	[57,77,92]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+06+2021+69145.aspx	
+22/06/2021	257	57188	7	1109	1783	91627	53448	2631	92	60	[33,54,65,82]	[44,82,85]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+06+2021.aspx	
+23/06/2021	264	57452	3	1112	1635	91788	53722	2618	92	72	[69,81]	[38]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+06+2021.aspx	
+24/06/2021	237	57689	7	1119	1803	92059	54011	2559	98	64	[51,70]	[38,53,78,85,87]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+06+2021.aspx	
+25/06/2021	274	57963	7	1126	1524	92392	54300	2537	96	94	[50,64,70,83]	[39,48,88]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+06+2021.aspx	
+26/06/2021	262	58225	9	1135	1428	92689	54611	2479	98	64	[41,67,68,70,74]	[30,39,53,64]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+06+2021.aspx	
+27/06/2021	248	58473	4	1139	1428	92972	54828	2506	96	65	[53]	[51,90,96]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+06+2021+69202.aspx	
+28/06/2021	259	58732	8	1147	1532	93126	55047	2538	95	64	[35,45,50,58,74]	[39,65,94]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+06+2021.aspx	
+29/06/2021	254	58986	5	1152	1500	93276	55296	2538	83	66	[53,73,78]	[39,79]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+06+2021.aspx	
+30/06/2021	214	59200	11	1163	1629	93433	55541	2496	82	69	[31,36,52,52,64,66,66,70]	[50,66,78]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+06+2021.aspx	
+01/07/2021	245	59445	9	1172	1633	93595	55789	2484	76	65	[51,63,84,93]	[40,50,56,58,85]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+07+2021.aspx	
+02/07/2021	226	59671	5	1177	1549	93790	56042	2452	75	58	[47,51,73]	[57,73]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+06+2021+69238.aspx	
+03/07/2021	212	59883	3	1180	1528	93958	56305	2398	76	58	[76]	[68,89]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+07+2021.aspx	
+04/07/2021	211	60094	5	1185	1525	94141	56533	2376	74	53	[61,90]	[48,52,65]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+07+2021.aspx	
+05/07/2021	205	60299	5	1190	1408	94378	56804	2305	82	46	[42,48,74]	[89,94]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+07+2021.aspx	
+06/07/2021	209	60508	5	1195	1477	94626	57058	2255	82	48	[74]	[45,63,63,82]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+07+2021.aspx	
+07/07/2021	213	60721	9	1204	1475	94785	57297	2220	83	43	[49,57,66,90]	[19,48,51,58,75]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+07+2021.aspx	
+08/07/2021	199	60920	8	1212	1599	94908	57550	2158	84	40	[65]	[66,73,79,83,90,96,97]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+07+2021.aspx	
+09/07/2021	186	61106	3	1215	1570	95003	57792	2099	83	36	[]	[67,70,79]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+07+2021.aspx	
+10/07/2021	168	61274	4	1219	1440	95141	57994	2061	82	38	[43,52]	[42,64]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+07+2021.aspx	
+11/07/2021	130	61404	1	1220	1440	95245	58231	1953	83	48	[]	[75]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+07+2021.aspx	
+12/07/2021	143	61547	3	1223	1513	95356	58452	1872	80	50	[56,57]	[71]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+07+2021.aspx	
+13/07/2021	168	61715	1	1224	1505	95497	58662	1829	81	42	[]	[73]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+07+2021.aspx	
+14/07/2021	176	61891	3	1227	1615	95630	58866	1778	82	44	[55]	[67,67]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+07+2021.aspx	
+15/07/2021	166	62057	2	1229	1609	95833	59089	1739	84	46	[68]	[72]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+07+2021.aspx	
+16/07/2021	121	62178	4	1233	1612	95965	59282	1663	76	38	[21,94]	[58,85]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+07+2021.aspx	
+17/07/2021	118	62296	1	1234	1633	96162	59490	1633	76	51	[58]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+07+2021.aspx	
+18/07/2021	114	62410	4	1238	1594	96321	59698	1474	77	47	[43,58]	[83,100]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+07+2021.aspx	
+19/07/2021	125	62535	2	1240	1576	96520	59884	1411	75	49	[]	[41,86]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+07+2021.aspx	
+20/07/2021	112	62647	3	1243	1632	96651	60051	1353	73	42	[70,75]	[74]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+07+2021.aspx	
+21/07/2021	127	62774	3	1246	1689	96818	60174	1354	69	45	[53,70]	[61]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+07+2021.aspx	
+22/07/2021	124	62898	7	1253	1572	97056	60313	1332	63	35	[33,56,75]	[42,58,73,78]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+07+2021.aspx	
+23/07/2021	122	63020	2	1255	1407	97347	60495	1269	64	32	[58]	[73]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+07+2021.aspx	
+24/07/2021	128	63148	1	1256	1182	97619	60705	1187	68	32	[64]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+07+2021.aspx	
+25/07/2021	129	63277	0	1256	1182	97811	60888	1133	66	31	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+07+2021.aspx	
+26/07/2021	150	63427	5	1261	1396	97892	61001	1165	64	35	[36,44,47]	[50,77]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+07+2021+69393.aspx	
+27/07/2021	179	63606	10	1271	1388	97914	61058	1277	54	50	[44,45,59,66,73,83]	[45,53,82]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+07+2021.aspx	
+28/07/2021	130	63736	3	1274	1129	98030	61133	1329	59	37	[84]	[42,83]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+07+2021.aspx	
+29/07/2021	135	63871	6	1280	1023	98226	61262	1329	58	46	[60,68,72,75,88,88]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+07+2021.aspx	
+30/07/2021	137	64008	2	1282	1022	98328	61377	1349	55	37	[46]	[45]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+07+2021.aspx	
+31/07/2021	135	64143	3	1285	1206	98494	61544	1304	52	32	[82]	[52,86]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+31+07+2021.aspx	
+01/08/2021	141	64284	2	1287	1206	98712	61680	1317	53	33	[]	[63,68]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+08+2021.aspx	
+02/08/2021	112	64396	2	1289	1241	98837	61804	1303	48	38	[75,80]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+08+2021.aspx	
+03/08/2021	123	64519	2	1291	1182	98976	61823	1405	46	27	[]	[33,91]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+08+2021.aspx	
+04/08/2021	159	64678	3	1294	1087	99174	61946	1438	51	31	[39,56,66]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+08+2021.aspx	
+05/08/2021	119	64797	3	1297	1087	99323	62092	1408	48	25	[81,89]	[72]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+08+2021.aspx	
+06/08/2021	133	64930	3	1300	1226	99451	62252	1378	49	31	[70,74,74]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+08+2021.aspx	
+07/08/2021	142	65072	1	1301	1041	99495	62406	1365	48	34	[55]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+08+2021.aspx	
+08/08/2021	130	65202	3	1304	1206	99643	62533	1365	43	40	[64,89]	[68]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+08+2021.aspx	
+09/08/2021	111	65313	2	1306	1145	99864	62681	1326	47	54	[50,58]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+08+2021.aspx	
+10/08/2021	107	65420	2	1308	1353	100002	62806	1306	45	42	[49]	[70]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+08+2021.aspx	
+11/08/2021	105	65525	2	1310	1375	100217	62969	1246	41	38	[76]	[46]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+08+2021.aspx	
+12/08/2021	100	65625	3	1313	1223	100310	63155	1157	42	39	[31,66,72]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+08+2021.aspx	
+13/08/2021	90	65715	1	1314	1423	100524	63164	1237	48	35	[57]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+08+2021.aspx	
+14/08/2021	89	65804	2	1316	1365	100695	63309	1179	49	37	[48,65]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+08+2021.aspx	
+15/08/2021	85	65889	1	1317	1309	100839	63442	1149	48	36	[]	[71]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+08+2021.aspx	Site marcando 1 a menos no total
+16/08/2021	76	65965	5	1322	1555	100951	63553	1089	42	32	[40,76,76,93]	[40]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+08+2021.aspx	Site marcando 1 a menos no total
+17/08/2021	81	66046	1	1323	1603	101205	63680	1042	45	24	[]	[68]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+08+2021.aspx	Site marcando 1 a menos no total
+18/08/2021	77	66123	1	1324	1730	101387	63802	996	42	27	[]	[68]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+08+2021.aspx	Site marcando 1 a menos no total
+19/08/2021	61	66184	4	1328	1831	101585	63889	966	37	30	[40]	[50,58,81]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+08+2021.aspx	Site marcando 1 a menos no total
+20/08/2021	52	66236	2	1330	1857	101756	63989	916	40	27	[39]	[81]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+08+2021.aspx	
+21/08/2021	37	66273	0	1330	1934	101939	64093	849	39	27	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+08+2021.aspx	
+22/08/2021	40	66313	3	1333	1858	102091	64192	787	41	28	[75,76,77]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+08+2021.aspx	
+23/08/2021	33	66346	0	1333	1946	102224	64277	735	39	23	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+08+2021.aspx	6 casos delta confirmados: http://www.piracicaba.sp.gov.br/piracicaba+confirma+seis+casos+da+variante+delta+da+covid+19.aspx
+24/08/2021	45	66391	0	1333	1864	102389	64344	713	39	23	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+08+2021.aspx	
+25/08/2021	42	66433	3	1336	1851	102566	64407	689	39	17	[57]	[74,89]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+08+2021.aspx	
+26/08/2021	49	66482	1	1337	1796	102664	64483	661	37	15	[]	[63]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+08+2021.aspx	
+27/08/2021	51	66533	0	1337	1655	102939	64559	636	37	16	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+08+2021.aspx	
+28/08/2021	54	66587	3	1340	1574	103156	64635	611	35	20	[70]	[48,81]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+08+2021.aspx	
+29/08/2021	56	66643	1	1341	1571	103219	64681	620	33	29	[78]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+08+2021.aspx	
+30/08/2021	67	66710	3	1344	1631	103325	64727	638	29	35	[51,57,73]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+08+2021.aspx	Primeiro óbito variante delta, mulher 74 anos: http://www.piracicaba.sp.gov.br/covid+19+piracicaba+confirma+primeira+morte+pela+variante+delta.aspx
+31/08/2021	57	66767	0	1344	1592	103438	64770	652	31	19	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+31+08+2021.aspx	
+01/09/2021	58	66825	1	1345	1643	103568	64800	679	40	17	[]	[99]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+09+2021.aspx	
+02/09/2021	60	66885	3	1348	1635	103791	64816	720	40	9	[74,84]	[78]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+09+2021.aspx	
+03/09/2021	62	66947	1	1349	1644	103910	64823	774	40	19	[87]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+09+2021.aspx	
+04/09/2021	60	67007	2	1351	1593	103999	64858	797	40	17	[]	[54,63]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+09+2021.aspx	
+05/09/2021	56	67063	0	1351	1574	104038	64883	828	38	17	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+09+2021.aspx	
+06/09/2021	50	67113	1	1352	1495	104231	64993	827	47	19	[61]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+09+2021.aspx	
+07/09/2021	55	67168	3	1355	1327	104426	64979	833	35	19	[]	[51,70,73]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+09+2021.aspx	
+08/09/2021	59	67227	1	1356	1322	104570	64999	871	36	27	[]	[81]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+09+2021.aspx	
+09/09/2021	53	67280	1	1357	1207	104673	65056	866	29	22	[56]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+09+2021.aspx	
+10/09/2021	59	67339	0	1357	1132	104757	65113	868	29	23	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+09+2021.aspx	
+11/09/2021	58	67397	1	1358	959	104930	65176	862	29	23	[72]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+09+2021.aspx	
+12/09/2021	62	67459	0	1358	958	105023	65236	864	31	19	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+09+2021.aspx	
+13/09/2021	64	67523	0	1358	875	105117	65269	895	29	21	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+09+2021.aspx	
+14/09/2021	44	67567	0	1358	874	105205	65362	846	27	19	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+09+2021.aspx	
+15/09/2021	59	67626	3	1361	1077	105219	65371	893	31	11	[53]	[68,75]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+09+2021.aspx	
+16/09/2021	59	67685	0	1361	1072	105317	65528	795	33	18	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+09+2021.aspx	
+17/09/2021	58	67743	3	1364	1072	105447	65702	676	22	19	[70,89]	[62]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+09+2021.aspx	
+18/09/2021	51	67794	1	1365	1052	105542	65841	587	21	21	[]	[87]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+09+2021.aspx	
+19/09/2021	52	67846	0	1365	918	105638	65917	563	21	21	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+09+2021.aspx	
+20/09/2021	63	67909	2	1367	1086	105758	65976	565	27	25	[]	[80,101]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+09+2021.aspx	
+21/09/2021	66	67975	1	1368	1313	105951	66032	574	31	16	[76]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+09+2021.aspx	
+22/09/2021	68	68043	2	1370	1456	106128	66091	581	22	23	[55]	[56]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+09+2021.aspx	
+23/09/2021	65	68108	0	1370	1484	106277	66149	581	26	21	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+09+2021.aspx	
+24/09/2021	71	68179	0	1370	1611	106480	66193	615	26	16	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+09+2021.aspx	
+25/09/2021	65	68244	1	1371	1611	106617	66252	620	24	12	[54]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+09+2021.aspx	
+26/09/2021	63	68307	1	1372	1610	106719	66309	625	24	11	[64]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+09+2021.aspx	
+27/09/2021	61	68368	0	1372	1513	106816	66367	628	26	23	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+09+2021.aspx	
+28/09/2021	52	68420	0	1372	1679	106978	66415	632	20	13	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+09+2021.aspx	
+29/09/2021	52	68472	0	1372	1671	107026	66467	632	24	11	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+09+2021.aspx	
+30/09/2021	57	68529	0	1372	1655	107126	66534	622	22	21	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+09+2021.aspx	
+01/10/2021	57	68586	1	1373	1639	107310	66599	613	24	29	[77]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+10+2021.aspx	
+02/10/2021	43	68629	1	1374	1639	107456	66665	589	24	29	[]	[51]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+02+10+2021.aspx	
+03/10/2021	40	68669	0	1374	1491	107604	66730	564	24	23	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+03+10+2021.aspx	
+04/10/2021	32	68701	0	1374	1703	107767	66800	526	17	27	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+10+2021.aspx	
+05/10/2021	35	68736	3	1377	1538	107913	66863	495	16	29	[39]	[72,95]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+10+2021.aspx	
+06/10/2021	40	68776	1	1378	1465	108222	66985	447	14	21	[]	[77]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+10+2021.aspx	
+07/10/2021	37	68813	2	1380	1529	108073	66924	469	16	19	[54,63]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+10+2021.aspx	
+08/10/2021	22	68835	1	1381	1426	108402	67038	415	11	21	[69]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+10+2021.aspx	
+09/10/2021	26	68861	0	1381	1388	108562	67097	382	11	19	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+10+2021.aspx	
+10/10/2021	27	68888	0	1381	1388	108737	67152	354	11	15	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+10+2021.aspx	
+11/10/2021	27	68915	1	1382	1388	108878	67207	325	13	15	[97]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+10+2021.aspx	
+12/10/2021	22	68937	0	1382	1274	108992	67251	303	13	10	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+10+2021.aspx	
+13/10/2021	23	68960	3	1385	1449	109049	67289	285	11	8	[68,76]	[64]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+10+2021.aspx	
+14/10/2021	19	68979	0	1385	1345	109196	67321	272	11	19	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+10+2021.aspx	
+15/10/2021	23	69002	0	1385	1345	109208	67356	260	13	15	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+10+2021.aspx	
+16/10/2021	16	69018	0	1385	1242	109385	67391	241	14	15	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+10+2021.aspx	
+17/10/2021	17	69035	0	1385	1242	109418	67431	218	13	13	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+10+2021.aspx	
+18/10/2021	23	69058	0	1385	1181	109517	67450	222	13	6	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+10+2021.aspx	
+19/10/2021	26	69084	0	1385	1087	109627	67471	227	16	8	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+19+10+2021.aspx	
+20/10/2021	24	69108	0	1385	1031	109708	67498	224	13	6	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+10+2021.aspx	
+21/10/2021	21	69129	0	1385	1031	109780	67525	218	10	10	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+21+10+2021.aspx	
+22/10/2021	17	69146	0	1385	952	109854	67547	213	10	8	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+10+2021.aspx	
+23/10/2021	13	69159	0	1385	951	109908	67558	215	10	8	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+23+10+2021.aspx	
+24/10/2021	19	69178	0	1385	951	109945	67577	215	10	10	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+10+2021.aspx	
+25/10/2021	10	69188	0	1385	755	110141	67598	204	14	13	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+25+10+2021.aspx	
+26/10/2021	12	69200	1	1386	1123	110226	67617	197	10	21	[]	[89]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+26+10+2021.aspx	
+27/10/2021	7	69207	0	1386	1123	110322	67630	191	11	15	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+10+2021.aspx	
+28/10/2021	12	69219	0	1386	1051	110483	67654	179	5	10	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+28+10+2021.aspx	
+29/10/2021	8	69227	0	1386	850	110677	67673	167	6	6	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+10+2021.aspx	
+02/11/2021	9	69236	0	1386	624	111189	67763	108	3	6	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+30+10+a+02+11.aspx	Divulgação agora é duas vezes na semana
+05/11/2021	21	69257	0	1386	1139	111460	67807	80	2	15	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+3+11+a+5+11.aspx	
+09/11/2021	39	69296	3	1389	1201	111791	67838	90	5	17	[46]	[61,74]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+06+11+a+09+11.aspx	
+12/11/2021	31	69327	2	1391	1283	112086	67858	99	5	15	[]	[45,63]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+11+a+12+11.aspx	
+16/11/2021	37	69364	0	1391	1313	112449	67895	99	11	7	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+11+a+16+11.aspx	
+19/11/2021	20	69384	0	1391	1318	112741	67921	93	5.4	24	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+11+a+19+11.aspx	
+23/11/2021	24	69408	1	1392	1046	113344	67958	79	9	14	[87]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+20+11+a+23+11+70382.aspx	
+26/11/2021	19	69427	0	1392	1104	113781	67989	67	8	20	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+11+a+26+11.aspx	
+30/11/2021	40	69467	0	1392	1084	114077	68017	79	3	10	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+27+11+a+30+11.aspx	
+03/12/2021	37	69504	0	1392	947	114278	68032	101	5.4	20	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+01+a+03+12.aspx	
+07/12/2021	56	69560	0	1392	1041	114580	68075	114	9	20	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+04+12+a+07+12.aspx	
+10/12/2021	46	69606	0	1392	999	114785	68119	109	18	47	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+a+10+12.aspx	
+14/12/2021	68	69674	0	1392	935	115078	68169	134	14	63	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+a+14+12.aspx	
+17/12/2021	60	69734	3	1395	830	115183	68198	162	0	60	[78,88,100]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+12+2021+a+17+12+2021.aspx	
+21/12/2021	76	69810	0	1395	741	115304	68245	191	10	60	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+a+21+12.aspx	
+23/12/2021	41	69851	1	1396	741	115390	68277	199	10	57	[]	[45]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+22+a+23+12.aspx	
+28/12/2021	120	69971	1	1397	813	115543	68370	225	35	61	[]	[76]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+24+12+a+28+12.aspx	
+30/12/2021	64	70035	0	1397	664	115648	68434	225	15	67	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+29+12+a+30+12.aspx	
+04/01/2022	397	70432	1	1398	460	116404	68561	494	14	80	[58]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+31+12+2021+a+04+01+2022.aspx	
+06/01/2022	351	70783	0	1398	348	116786	68623	783	50	76	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+05+a+06+01.aspx	
+07/01/2022	216	70999	0	1398	346	116946	68652	970	53	90	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+01+2022.aspx	
+08/01/2022	281	71280	1	1399	339	117052	68652	1249	50	100	[]	[80]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+01+2022.aspx	
+09/01/2022	347	71627	1	1400	339	117301	68710	1338	50	100	[]	[73]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+01+2022.aspx	
+10/01/2022	361	71988	0	1400	231	117328	68731	1878	50	90	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+01+2022.aspx	
+11/01/2022	407	72395	0	1400	264	117354	68789	2227	47	88	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+01+2022.aspx	
+12/01/2022	389	72784	0	1400	264	117389	68969	2436	58	100	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+01+2022.aspx	
+13/01/2022	408	73213	0	1400	204	117448	69057	2756	56	96	[]	[]	http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+01+2022.aspx	
