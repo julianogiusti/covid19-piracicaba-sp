@@ -666,3 +666,12 @@ data;casos_novos;casos;obitos_novos;obitos;suspeitos;descartados;recuperados;em_
 07/03/2022;51;87702;0;1529;958;120903;85268;875;53;19;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+07+03+2022.aspx;
 08/03/2022;53;87755;0;1529;958;120968;85523;724;53;19;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+08+03+2022.aspx;
 09/03/2022;41;87796;0;1529;944;121035;85621;667;50;19;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+09+03+2022.aspx;
+10/03/2022;58;87854;1;1530;936;121086;85702;585;39;51;[];[70];http://www.piracicaba.sp.gov.br/plantao+coronavirus+10+03+2022.aspx;
+11/03/2022;56;87910;1;1531;936;121142;85795;605;28;21;[];[75];http://www.piracicaba.sp.gov.br/plantao+coronavirus+11+03+2022.aspx;
+12/03/2022;56;87966;0;1531;936;121174;85880;576;28;19;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+12+03+2022.aspx;
+13/03/2022;52;88018;0;1531;840;121223;85919;589;28;19;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+13+03+2022.aspx;
+14/03/2022;56;88074;0;1531;807;121247;85952;612;44;13;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+14+03+2022.aspx;
+15/03/2022;56;88130;1;1532;807;121300;86015;604;28;17;[];[91];http://www.piracicaba.sp.gov.br/plantao+coronavirus+15+03+2022.aspx;
+16/03/2022;54;88184;0;1532;783;121381;86087;586;33;15;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+16+03+2022.aspx;
+17/03/2022;58;88242;0;1532;783;121431;86188;543;33;15;[];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+17+03+2022.aspx;
+18/03/2022;57;88299;3;1535;755;121475;86238;547;22;17;[70,84,88];[];http://www.piracicaba.sp.gov.br/plantao+coronavirus+18+03+2022.aspx;
